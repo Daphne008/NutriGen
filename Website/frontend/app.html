@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriGen | Clinical Simulation</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- HEADER -->
+        <header class="app-header">
+            <div class="logo">
+                <span class="logo-icon">🌿</span> NutriGen
+            </div>
+            <p class="subtitle">Interactive Pedagogic Tool for Personalized Dietetics Training</p>
+            <button id="btn-new-patient" class="btn-secondary btn-header hidden" style="margin-left: auto;">New Patient</button>
+        </header>
+
+        <main class="dashboard-grid">
+            
+            <!-- CENTER PANEL: PATIENT DASHBOARD (Interactive) -->
+            <section class="panel report-panel">
+                <div class="report-header">
+                    <h2>Patient Clinical Profile</h2>
+                </div>
+                
+                <div id="clinical-content" class="clinical-content">
+                    <p class="panel-desc interactive-desc">Click on abnormal vitals to assign your suspected diagnoses.</p>
+                    <div class="card-grid">
+                        
+                        <!-- Demographics Card -->
+                        <div class="clinical-card">
+                            <h3>Demographic Profile</h3>
+                            <div class="data-row"><span>Age:</span> <b id="val-age">-</b></div>
+                            <div class="data-row"><span>Gender:</span> <b id="val-gender">-</b></div>
+                        </div>
+
+                        <!-- Anthropometrics Card -->
+                        <div class="clinical-card">
+                            <h3>Anthropometric Measurements</h3>
+                            <div class="data-row"><span>Weight:</span> <b id="val-weight">-</b></div>
+                            <div class="data-row"><span>Height:</span> <b id="val-height">-</b></div>
+                            <div class="data-row interactive-row" data-category="cvd">
+                                <span>Waist Circumference:</span> <b id="val-waist">-</b>
+                            </div>
+                            <div class="data-row interactive-row" data-category="cvd">
+                                <span>Waist-to-Height Ratio:</span> <b id="val-whtr">-</b>
+                            </div>
+                            <div class="data-row interactive-row" data-category="bmi">
+                                <span>BMI:</span> <b id="val-bmi">-</b>
+                            </div>
+                        </div>
+
+                        <!-- Cardiovascular Card -->
+                        <div class="clinical-card span-full">
+                            <h3>Cardiovascular & Metabolic Health</h3>
+                            <div class="vitals-grid">
+                                <div class="data-row interactive-row" data-category="bp">
+                                    <span>Blood Pressure:</span> <b id="val-bp">-</b>
+                                </div>
+                                <div class="data-row interactive-row" data-category="lipids">
+                                    <span>Total Cholesterol:</span> <b id="val-chol">-</b>
+                                </div>
+                                <div class="data-row interactive-row" data-category="lipids">
+                                    <span>HDL:</span> <b id="val-hdl">-</b>
+                                </div>
+                                <div class="data-row interactive-row" data-category="lipids">
+                                    <span>LDL:</span> <b id="val-ldl">-</b>
+                                </div>
+                                <div class="data-row interactive-row" data-category="lipids">
+                                    <span>TC/HDL Risk Ratio:</span> <b id="val-tc-hdl">-</b>
+                                </div>
+                                <div class="data-row interactive-row" data-category="diabetes">
+                                    <span>HbA1c:</span> <b id="val-hba1c">-</b>
+                                </div>
+                                <div class="data-row interactive-row" data-category="kidney">
+                                    <span>Urine Albumin:</span> <b id="val-alb">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Urine Creatinine:</span> <b id="val-urine-creat">-</b>
+                                </div>
+                                <div class="data-row interactive-row" data-category="kidney">
+                                    <span>Albumin-to-Creatinine (ACR):</span> <b id="val-acr">-</b>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Dietary Recall Card -->
+                        <div class="clinical-card span-full">
+                            <h3>Dietary Recall (24-Hour) & Security</h3>
+                            <div class="vitals-grid">
+                                <div class="data-row">
+                                    <span>Self-Rated Diet Quality:</span> <b id="val-diet-qual">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Food Security Status:</span> <b id="val-food-sec">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Total Calories:</span> <b id="val-calories">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Macronutrients:</span> <b id="val-macros">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Protein:</span> <b id="val-protein">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Carbohydrates:</span> <b id="val-carbs">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Total Sugars:</span> <b id="val-sugars">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Dietary Fiber:</span> <b id="val-fiber">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Total Fat:</span> <b id="val-fat">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Sodium:</span> <b id="val-sodium">-</b>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Lifestyle & Mental Health Card -->
+                        <div class="clinical-card span-full">
+                            <h3>Lifestyle, Mental Health & Socioeconomic</h3>
+                            <div class="vitals-grid">
+                                <div class="data-row interactive-row" data-category="poverty">
+                                    <span>Income-to-Poverty Ratio:</span> <b id="val-poverty">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>PHQ-9 Depression Score:</span> <b id="val-phq9">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Sleep:</span> <b id="val-sleep">-</b>
+                                </div>
+                                <div class="data-row">
+                                    <span>Sedentary Time:</span> <b id="val-sedentary">-</b>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Hidden Diagnostic Popups appended here dynamically by JS -->
+                <div id="diagnostic-popups-container"></div>
+
+            </section>
+
+            <!-- RIGHT PANEL: CLINICAL NOTES -->
+            <section class="panel notes-panel">
+                <h2>Clinical Notes Scratchpad</h2>
+                <p class="panel-desc">Record your differential diagnoses and intervention rationale.</p>
+                <textarea id="clinical-notes" class="notes-area" placeholder="Patient appears to have metabolic syndrome marked by..."></textarea>
+            </section>
+
+            <!-- BOTTOM PANEL: DIETARY INTERVENTION (Full Width) -->
+            <section class="panel intervention-panel span-full">
+                <div class="intervention-header">
+                    <h2>Dietary Intervention & Diagnosis Submission</h2>
+                    <p class="panel-desc">Design a customized daily diet plan and submit your interactive diagnoses for AI assessment.</p>
+                </div>
+
+                <div id="diet-planner" class="diet-planner blur-state">
+                    <div class="planner-layout">
+                        <!-- Left: Blocks -->
+                        <div id="meal-blocks-container" class="meal-blocks-container">
+                            <!-- JS will generate 7 blocks here: Breakfast, Snack 1, Lunch, Snack 2, Dinner, Snack 3, Snack 4 -->
+                        </div>
+                        
+                        <!-- Right: Real-time Macro Summary -->
+                        <div class="macro-summary-panel">
+                            <h3>Live Plan Summary</h3>
+                            <div class="macro-totals">
+                                <div><label>Calories</label><span id="live-cal">0 kcal</span></div>
+                                <div><label>Protein</label><span id="live-pro">0 g</span></div>
+                                <div><label>Carbs</label><span id="live-car">0 g</span></div>
+                                <div><label>Fat</label><span id="live-fat">0 g</span></div>
+                                <div><label>Sugars</label><span id="live-sug">0 g</span></div>
+                                <div><label>Fiber</label><span id="live-fib">0 g</span></div>
+                                <div><label>Sodium</label><span id="live-sod">0 mg</span></div>
+                            </div>
+                            <button type="button" id="btn-submit-plan" class="btn-primary" disabled>Submit Plan & Diagnosis</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="evaluation-result" class="evaluation-result hidden">
+                    <h3>Simulation Feedback & Assessment</h3>
+                    <div class="eval-columns">
+                        <div class="eval-col">
+                            <h4>Dietary Assessment</h4>
+                            <div id="eval-score" class="eval-score">Plan Score: -/100</div>
+                            <ul id="eval-feedback" class="eval-feedback-list"></ul>
+                        </div>
+                        <div class="eval-col">
+                            <h4>Diagnostic Accuracy</h4>
+                            <ul id="eval-diagnostics" class="eval-feedback-list"></ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+    <!-- Clinical Generation Modal -->
+    <div id="generation-modal" class="modal-overlay">
+        <section class="panel control-panel modal-content">
+            <h2>Clinical Generation</h2>
+            <p class="panel-desc">Synthesize a new highly realistic patient profile focusing on specific pathology groups.</p>
+            
+            <div class="control-group">
+                <label for="flag-select">Target Pathologies (Select Multiple)</label>
+                <select id="flag-select" class="multi-select" size="6" multiple>
+                    <option value="obese">Obese (BMI > 30)</option>
+                    <option value="diabetic">Diabetic</option>
+                    <option value="hypertension">Hypertension</option>
+                    <option value="pediatric">Pediatric (< 18 yrs)</option>
+                    <option value="geriatric">Geriatric (>= 65 yrs)</option>
+                    <option value="severe_depression">Severe Depression</option>
+                    <option value="low_income">Below Poverty Line</option>
+                </select>
+                <p class="input-hint">Click to toggle options. Leave blank for a completely random patient.</p>
+            </div>
+
+            <button id="btn-generate" class="btn-primary">Generate Synthesized Patient</button>
+            <div id="loading-indicator" class="hidden">
+                <div class="spinner"></div>
+                <span>Initializing PyTorch Model...</span>
+            </div>
+        </section>
+    </div>
+
+    <!-- Template for Interactive Diagnostic Popups -->
+    <template id="popup-template">
+        <div class="diagnostic-popup hidden">
+            <h4>Assign Pathologies</h4>
+            <div class="popup-options"></div>
+            <button type="button" class="btn-tiny popup-close">Done</button>
+        </div>
+    </template>
+
+    <!-- Food Search Modal -->
+    <div id="food-search-modal" class="modal-overlay hidden">
+        <section class="panel control-panel modal-content food-search-content">
+            <h2>Daily Diet Planner - Search Foods</h2>
+            <input type="text" id="food-search-input" placeholder="Search for apple, chicken, etc..." class="search-input">
+            <div id="food-search-results" class="food-results-list"></div>
+            <button type="button" id="btn-close-search" class="btn-secondary">Close</button>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
