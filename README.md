@@ -1,72 +1,88 @@
-<div align="center">
-  <h1> NutriGen</h1>
-  <p><strong>An AI-Powered Pedagogic Tool for Personalized Dietetics Training</strong></p>
-</div>
+# Dietitian Support Platform
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-GAN-EE4C2C?style=for-the-badge&logo=pytorch)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Synthetic%20Data-orange?style=for-the-badge)
+Monorepo for a university demo project with:
 
-##  Overview
+- `frontend/`: Next.js + React + Tailwind user interface
+- `backend/`: Express + Prisma + PostgreSQL REST API
 
-**NutriGen** is a web-based educational simulation platform designed for nutrition and dietetics students. Its goal is to bridge the gap between theoretical knowledge and practical clinical experience by offering a risk-free virtual environment.
+## Quick Start (Local)
 
-Due to strict data privacy regulations (GDPR, HIPAA), students often face a "cold start" problem—lacking real-world patient records to practice crafting personalized nutrition plans. NutriGen solves this by using **Generative Adversarial Networks (GANs)** to synthesize high-fidelity, anonymized patient profiles (including medical histories, anthropometric measurements, and quality-of-life indicators) derived from real-world datasets like NHANES and USDA FoodData Central.
-
-##  Key Features
-
-- **Synthetic Patient Generation (GANs)**: Probabilistic models that generate highly realistic, unique patient cases, mimicking the statistical distributions of real health populations.
-- **Dietary Analysis Engine**: Compare and evaluate formulated diet plans using comprehensive nutritional reference data (calories, macronutrients).
-- **Automated Feedback & Scoring**: A simulation module assessing short-term nutritional impacts, adherence to clinical guidelines (WHO, DASH), and flagging physiological risks.
-- **Risk-Free Learning Environment**: Allows dietetic students to make unpenalized clinical choices to learn iteratively.
-
-##  Project Architecture
-
-NutriGen is structured as a modular system, separating data generation, analysis processing, and user interfaces:
-
-1. **Dataset Layer**: NHANES for demographic distributions, USDA for nutrition profiles.
-2. **Generative Modeling module (`gan_prototype.py`)**: Our core PyTorch GAN architecture.
-3. **Simulation Logic (`generate_reports.py`)**: Evaluates the simulated cases and student performance parameters.
-4. **Data Interface & Analysis**: Tools to validate (`test_gan_distributions.py`), format and sanitize the output (`generate_custom_patient.py`).
-
-##  Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed, then install the dependencies via:
+### 1) Backend
 
 ```bash
-pip install -r requirements.txt
+cd backend
+npm install
+cp .env.example .env
+npm run prisma:migrate
+npm run prisma:generate
+npm run prisma:seed
+npm run dev
 ```
 
-*(Primary libraries: `pandas`, `numpy`, `torch`, `scikit-learn`)*
+### 2) Frontend
 
-### Generating Patient Data
-
-You can use the existing pretrained GAN model(s) to synthesize data.
+Open a second terminal:
 
 ```bash
-python generate_custom_patient.py
+cd frontend
+npm install
+cp .env.local.example .env.local
+npm run dev
 ```
 
-### Running Tests
+Frontend runs at `http://localhost:3000`, backend at `http://localhost:4000`.
 
-To validate the distributions and bounds of the generated patient records, execute:
+### Start both servers without retyping commands (Windows)
 
-```bash
-python test_gan_distributions.py
-python test_indicators.py
-```
+After the one-time setup above (`npm install`, `.env` files, migrate, seed), you can start backend and frontend with a single action:
 
-##  The Team
+1. **Double-click** `scripts/start-dev.bat`  
+   - Opens two PowerShell windows (backend on port 4000, frontend on 3000).  
+   - Frontend runs **`npm run build` then `next start`** (not `next dev`) so CSS and `/_next/static` stay consistent on Windows. The first launch waits for the build.  
+   - Close those windows when you want to stop.
 
-Developed as a Computer/Software Engineering Graduation Project (2025-2026 Fall/Spring) by:
-- **Şevval Bersun KARAHALİL**
-- **Defne Ecem EROĞLU**
-- **Oğuz Görkem ER**
+If the site suddenly looks like **plain HTML with no styling**, stop anything on port 3000, then **double-click** `scripts/repair-frontend.bat` (or run `scripts/repair-frontend.ps1`). That deletes `.next`, rebuilds, and starts the production server again. Avoid running `npm run dev` and `npm run start` on the same port at the same time.
 
-*Supervised by Mentors: Aytun Onay and Şadi Şehab*
+2. **Or** run once from PowerShell:
 
----
+   ```powershell
+   powershell -ExecutionPolicy Bypass -File .\scripts\start-dev.ps1
+   ```
 
-> Disclaimer: NutriGen is designed strictly for **pedagogical purposes**. All data is synthetic and it is not intended for active clinical diagnostics in real healthcare settings.
+3. **Optional (Cursor / VS Code):** Terminal → Run Task → create a task that runs the same script or two `npm run dev` tasks in split terminals.
+
+## Demo Login Credentials
+
+Created by the backend seed script:
+
+- `admin@example.com` / `Demo12345!`
+- `dietitian@example.com` / `Demo12345!`
+- `dietitian2@example.com` / `Demo12345!`
+
+## Presentation Demo Script
+
+1. Open landing page and explain the project purpose (AI-like report + diet planning + admin oversight).
+2. Login as `dietitian@example.com` and go to dashboard.
+3. Choose a patient category and generate a report.
+4. Build a diet plan with foods and show equivalence suggestions.
+5. Finish plan and show evaluation screen:
+   - total calories vs required calories
+   - macro distribution chart
+   - overall score + suggestions
+6. Logout and login as `admin@example.com`.
+7. Show admin tabs:
+   - users
+   - foods dataset
+   - equivalence rules
+   - generated reports and plans
+
+## Deployment Checklist
+
+- Backend:
+  - Configure `DATABASE_URL`, `JWT_SECRET`, `CORS_ORIGIN`, `PORT`
+  - Run `npm run build && npm run start`
+- Frontend:
+  - Set `NEXT_PUBLIC_API_BASE_URL` to deployed backend URL
+  - Run `npm run build && npm run start`
+- Database:
+  - Run Prisma migrations and seed once in target environment
