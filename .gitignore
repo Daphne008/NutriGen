@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+/lib/
 lib64/
 parts/
 sdist/
@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Node / Next.js / NutriGen app
+node_modules/
+.next/
+out/
+backend/dist/
+.env.local
+frontend/.env.local
+*.pth

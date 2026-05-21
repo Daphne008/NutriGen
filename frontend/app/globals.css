@@ -1,0 +1,28 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+}
+
+/* Interactive vitals (Website-style — hover only highlights, click opens popup) */
+.data-row > span {
+  @apply text-mutedForeground;
+}
+
+.interactive-row {
+  @apply cursor-pointer border border-dashed border-transparent transition-all duration-200;
+}
+
+.interactive-row:hover {
+  @apply border-primary/50 bg-primary/5;
+}
+
+.interactive-row.active {
+  @apply border-primary bg-primary/10;
+}
