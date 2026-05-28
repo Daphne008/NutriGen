@@ -11,7 +11,13 @@ BASE_URL = "https://api.nal.usda.gov/fdc/v1/foods/search"
 
 SEARCH_TERMS = [
     "chicken breast", "rice", "egg", "milk", "banana",
-    "apple", "salmon", "oats", "bread", "potato"
+    "apple", "salmon", "oats", "bread", "potato",
+    "pasta", "yogurt", "cheese", "beef", "tuna",
+    "lentils", "beans", "chickpeas", "broccoli", "spinach",
+    "tomato", "cucumber", "carrot", "avocado", "orange",
+    "strawberry", "almond", "walnut", "peanut butter",
+    "olive oil", "turkey", "tofu", "mushroom", "corn",
+    "sweet potato", "quinoa", "bulgur", "cottage cheese"
 ]
 
 NUTRIENTS = {
