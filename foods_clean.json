@@ -1,0 +1,3690 @@
+[
+  {
+    "id":1,
+    "description":"Adobo, With Rice",
+    "calories":181.0,
+    "protein_g":17.7,
+    "fat_g":7.9,
+    "carbs_g":8.9
+  },
+  {
+    "id":2,
+    "description":"Almond Butter",
+    "calories":641.0,
+    "protein_g":20.7,
+    "fat_g":52.7,
+    "carbs_g":21.1
+  },
+  {
+    "id":3,
+    "description":"Almond Chicken",
+    "calories":195.0,
+    "protein_g":15.7,
+    "fat_g":13.2,
+    "carbs_g":4.5
+  },
+  {
+    "id":4,
+    "description":"Almond Milk, Chocolate",
+    "calories":43.0,
+    "protein_g":0.6,
+    "fat_g":1.2,
+    "carbs_g":7.4
+  },
+  {
+    "id":5,
+    "description":"Almond Milk, Nfs",
+    "calories":20.0,
+    "protein_g":0.5,
+    "fat_g":1.2,
+    "carbs_g":1.5
+  },
+  {
+    "id":6,
+    "description":"Almond Milk, Sweetened",
+    "calories":30.0,
+    "protein_g":0.5,
+    "fat_g":1.2,
+    "carbs_g":4.3
+  },
+  {
+    "id":7,
+    "description":"Almond Milk, Unsweetened",
+    "calories":15.0,
+    "protein_g":0.6,
+    "fat_g":1.2,
+    "carbs_g":0.3
+  },
+  {
+    "id":8,
+    "description":"Almond Oil",
+    "calories":884.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":9,
+    "description":"Almond Paste",
+    "calories":458.0,
+    "protein_g":9.0,
+    "fat_g":27.7,
+    "carbs_g":47.8
+  },
+  {
+    "id":10,
+    "description":"Almonds, Flavored",
+    "calories":599.0,
+    "protein_g":20.1,
+    "fat_g":53.3,
+    "carbs_g":20.1
+  },
+  {
+    "id":11,
+    "description":"Almonds, Honey Roasted",
+    "calories":579.0,
+    "protein_g":14.1,
+    "fat_g":45.3,
+    "carbs_g":35.8
+  },
+  {
+    "id":12,
+    "description":"Almonds, Lightly Salted",
+    "calories":604.0,
+    "protein_g":20.2,
+    "fat_g":53.7,
+    "carbs_g":20.3
+  },
+  {
+    "id":13,
+    "description":"Almonds, Nfs",
+    "calories":598.0,
+    "protein_g":21.0,
+    "fat_g":52.5,
+    "carbs_g":21.0
+  },
+  {
+    "id":14,
+    "description":"Almonds, Salted",
+    "calories":601.0,
+    "protein_g":20.1,
+    "fat_g":53.4,
+    "carbs_g":20.2
+  },
+  {
+    "id":15,
+    "description":"Almonds, Unroasted",
+    "calories":626.0,
+    "protein_g":21.4,
+    "fat_g":51.1,
+    "carbs_g":20.0
+  },
+  {
+    "id":16,
+    "description":"Almonds, Unsalted",
+    "calories":607.0,
+    "protein_g":20.3,
+    "fat_g":54.0,
+    "carbs_g":20.4
+  },
+  {
+    "id":17,
+    "description":"Apple",
+    "calories":50.7,
+    "protein_g":0.1,
+    "fat_g":0.2,
+    "carbs_g":13.3
+  },
+  {
+    "id":18,
+    "description":"Apple Cider",
+    "calories":46.0,
+    "protein_g":0.1,
+    "fat_g":0.1,
+    "carbs_g":11.3
+  },
+  {
+    "id":19,
+    "description":"Apple Juice, 100%",
+    "calories":48.0,
+    "protein_g":0.1,
+    "fat_g":0.2,
+    "carbs_g":11.3
+  },
+  {
+    "id":20,
+    "description":"Apple Pie Filling",
+    "calories":100.0,
+    "protein_g":0.1,
+    "fat_g":0.1,
+    "carbs_g":26.1
+  },
+  {
+    "id":21,
+    "description":"Apple Salad With Dressing",
+    "calories":180.0,
+    "protein_g":1.4,
+    "fat_g":14.2,
+    "carbs_g":12.2
+  },
+  {
+    "id":22,
+    "description":"Apple, Baked",
+    "calories":113.0,
+    "protein_g":0.3,
+    "fat_g":3.1,
+    "carbs_g":22.7
+  },
+  {
+    "id":23,
+    "description":"Apple, Candied",
+    "calories":134.0,
+    "protein_g":1.3,
+    "fat_g":2.2,
+    "carbs_g":29.6
+  },
+  {
+    "id":24,
+    "description":"Apple, Dried",
+    "calories":243.0,
+    "protein_g":0.9,
+    "fat_g":0.3,
+    "carbs_g":65.9
+  },
+  {
+    "id":25,
+    "description":"Apple, Raw",
+    "calories":61.0,
+    "protein_g":0.2,
+    "fat_g":0.2,
+    "carbs_g":14.8
+  },
+  {
+    "id":26,
+    "description":"Avocado Chunks, Avocado",
+    "calories":167.0,
+    "protein_g":3.3,
+    "fat_g":15.0,
+    "carbs_g":10.0
+  },
+  {
+    "id":27,
+    "description":"Avocado Crema, Avocado",
+    "calories":133.0,
+    "protein_g":0.0,
+    "fat_g":11.7,
+    "carbs_g":6.7
+  },
+  {
+    "id":28,
+    "description":"Avocado Dip, Avocado",
+    "calories":180.5,
+    "protein_g":0.0,
+    "fat_g":15.6,
+    "carbs_g":9.9
+  },
+  {
+    "id":29,
+    "description":"Avocado Dressing",
+    "calories":427.0,
+    "protein_g":1.9,
+    "fat_g":43.3,
+    "carbs_g":7.4
+  },
+  {
+    "id":30,
+    "description":"Avocado Dressing, Avocado",
+    "calories":300.0,
+    "protein_g":0.0,
+    "fat_g":30.0,
+    "carbs_g":6.7
+  },
+  {
+    "id":31,
+    "description":"Avocado Hommus, Avocado",
+    "calories":250.0,
+    "protein_g":7.1,
+    "fat_g":17.9,
+    "carbs_g":14.3
+  },
+  {
+    "id":32,
+    "description":"Avocado Hummus, Avocado",
+    "calories":214.5,
+    "protein_g":10.7,
+    "fat_g":13.4,
+    "carbs_g":14.3
+  },
+  {
+    "id":33,
+    "description":"Avocado, For Use On A Sandwich",
+    "calories":160.0,
+    "protein_g":2.0,
+    "fat_g":14.7,
+    "carbs_g":8.5
+  },
+  {
+    "id":34,
+    "description":"Avocado, Raw",
+    "calories":160.0,
+    "protein_g":2.0,
+    "fat_g":14.7,
+    "carbs_g":8.5
+  },
+  {
+    "id":35,
+    "description":"Avocados, Raw, All Commercial Varieties",
+    "calories":160.0,
+    "protein_g":2.0,
+    "fat_g":14.7,
+    "carbs_g":8.5
+  },
+  {
+    "id":36,
+    "description":"Avocados, Raw, California",
+    "calories":697.0,
+    "protein_g":2.0,
+    "fat_g":15.4,
+    "carbs_g":8.6
+  },
+  {
+    "id":37,
+    "description":"Avocados, Raw, Florida",
+    "calories":120.0,
+    "protein_g":2.2,
+    "fat_g":10.1,
+    "carbs_g":7.8
+  },
+  {
+    "id":38,
+    "description":"Baby Toddler Yogurt Melts",
+    "calories":380.0,
+    "protein_g":14.3,
+    "fat_g":4.0,
+    "carbs_g":71.8
+  },
+  {
+    "id":39,
+    "description":"Babyfood, Apple-Banana Juice",
+    "calories":213.0,
+    "protein_g":0.2,
+    "fat_g":0.1,
+    "carbs_g":12.3
+  },
+  {
+    "id":40,
+    "description":"Babyfood, Banana No Tapioca, Strained",
+    "calories":381.0,
+    "protein_g":1.0,
+    "fat_g":0.2,
+    "carbs_g":21.3
+  },
+  {
+    "id":41,
+    "description":"Babyfood, Carrots, Toddler",
+    "calories":21.0,
+    "protein_g":0.6,
+    "fat_g":0.3,
+    "carbs_g":5.2
+  },
+  {
+    "id":42,
+    "description":"Babyfood, Corn And Sweet Potatoes, Strained",
+    "calories":287.0,
+    "protein_g":1.3,
+    "fat_g":0.3,
+    "carbs_g":15.2
+  },
+  {
+    "id":43,
+    "description":"Babyfood, Juice, Apple",
+    "calories":47.0,
+    "protein_g":0.0,
+    "fat_g":0.1,
+    "carbs_g":11.7
+  },
+  {
+    "id":44,
+    "description":"Babyfood, Juice, Apple-Sweet Potato",
+    "calories":47.0,
+    "protein_g":0.3,
+    "fat_g":0.1,
+    "carbs_g":11.4
+  },
+  {
+    "id":45,
+    "description":"Babyfood, Juice, Orange",
+    "calories":186.0,
+    "protein_g":0.6,
+    "fat_g":0.3,
+    "carbs_g":10.2
+  },
+  {
+    "id":46,
+    "description":"Babyfood, Juice, Orange And Apple",
+    "calories":43.0,
+    "protein_g":0.4,
+    "fat_g":0.2,
+    "carbs_g":10.1
+  },
+  {
+    "id":47,
+    "description":"Babyfood, Juice, Orange And Apricot",
+    "calories":46.0,
+    "protein_g":0.8,
+    "fat_g":0.1,
+    "carbs_g":10.9
+  },
+  {
+    "id":48,
+    "description":"Babyfood, Juice, Orange And Banana",
+    "calories":50.0,
+    "protein_g":0.7,
+    "fat_g":0.1,
+    "carbs_g":11.9
+  },
+  {
+    "id":49,
+    "description":"Babyfood, Juice, Orange And Pineapple",
+    "calories":48.0,
+    "protein_g":0.5,
+    "fat_g":0.1,
+    "carbs_g":11.7
+  },
+  {
+    "id":50,
+    "description":"Babyfood, Juice, Orange-Carrot",
+    "calories":43.0,
+    "protein_g":0.5,
+    "fat_g":0.1,
+    "carbs_g":9.9
+  },
+  {
+    "id":51,
+    "description":"Bacon And Tomato Dressing",
+    "calories":326.0,
+    "protein_g":1.8,
+    "fat_g":35.0,
+    "carbs_g":2.0
+  },
+  {
+    "id":52,
+    "description":"Bagel, Oat Bran",
+    "calories":250.0,
+    "protein_g":10.2,
+    "fat_g":1.5,
+    "carbs_g":48.9
+  },
+  {
+    "id":53,
+    "description":"Bagels, Egg",
+    "calories":278.0,
+    "protein_g":10.6,
+    "fat_g":2.1,
+    "carbs_g":53.0
+  },
+  {
+    "id":54,
+    "description":"Bagels, Oat Bran",
+    "calories":255.0,
+    "protein_g":10.7,
+    "fat_g":1.2,
+    "carbs_g":53.3
+  },
+  {
+    "id":55,
+    "description":"Baked Beans",
+    "calories":105.0,
+    "protein_g":4.5,
+    "fat_g":0.9,
+    "carbs_g":21.6
+  },
+  {
+    "id":56,
+    "description":"Banana",
+    "calories":324.0,
+    "protein_g":6.2,
+    "fat_g":3.7,
+    "carbs_g":59.6
+  },
+  {
+    "id":57,
+    "description":"Banana Chips",
+    "calories":519.0,
+    "protein_g":2.3,
+    "fat_g":33.6,
+    "carbs_g":58.4
+  },
+  {
+    "id":58,
+    "description":"Banana Nectar",
+    "calories":74.0,
+    "protein_g":0.3,
+    "fat_g":0.1,
+    "carbs_g":18.0
+  },
+  {
+    "id":59,
+    "description":"Banana Pudding",
+    "calories":160.0,
+    "protein_g":2.6,
+    "fat_g":4.3,
+    "carbs_g":28.0
+  },
+  {
+    "id":60,
+    "description":"Banana Split",
+    "calories":199.0,
+    "protein_g":2.4,
+    "fat_g":6.9,
+    "carbs_g":32.6
+  },
+  {
+    "id":61,
+    "description":"Banana, Baked",
+    "calories":161.0,
+    "protein_g":0.8,
+    "fat_g":3.2,
+    "carbs_g":32.4
+  },
+  {
+    "id":62,
+    "description":"Banana, Raw",
+    "calories":97.0,
+    "protein_g":0.7,
+    "fat_g":0.3,
+    "carbs_g":22.7
+  },
+  {
+    "id":63,
+    "description":"Bananas, Dehydrated, Or Banana Powder",
+    "calories":346.0,
+    "protein_g":3.9,
+    "fat_g":1.8,
+    "carbs_g":88.3
+  },
+  {
+    "id":64,
+    "description":"Bananas, Overripe, Raw",
+    "calories":357.0,
+    "protein_g":0.7,
+    "fat_g":0.2,
+    "carbs_g":20.1
+  },
+  {
+    "id":65,
+    "description":"Bananas, Raw",
+    "calories":89.0,
+    "protein_g":1.1,
+    "fat_g":0.3,
+    "carbs_g":22.8
+  },
+  {
+    "id":66,
+    "description":"Bean Cake",
+    "calories":414.0,
+    "protein_g":5.8,
+    "fat_g":21.4,
+    "carbs_g":49.9
+  },
+  {
+    "id":67,
+    "description":"Bean Chips",
+    "calories":448.0,
+    "protein_g":14.6,
+    "fat_g":21.6,
+    "carbs_g":53.1
+  },
+  {
+    "id":68,
+    "description":"Bean Dip, Made With Refried Beans",
+    "calories":119.0,
+    "protein_g":5.4,
+    "fat_g":3.7,
+    "carbs_g":15.9
+  },
+  {
+    "id":69,
+    "description":"Bean Paste, Sweetened",
+    "calories":226.0,
+    "protein_g":6.2,
+    "fat_g":0.5,
+    "carbs_g":50.0
+  },
+  {
+    "id":70,
+    "description":"Bean Salad, Yellow And\/Or Green String Beans",
+    "calories":109.0,
+    "protein_g":3.5,
+    "fat_g":5.0,
+    "carbs_g":13.0
+  },
+  {
+    "id":71,
+    "description":"Beans",
+    "calories":218.5,
+    "protein_g":13.2,
+    "fat_g":2.7,
+    "carbs_g":42.0
+  },
+  {
+    "id":72,
+    "description":"Beans And Franks",
+    "calories":138.0,
+    "protein_g":6.7,
+    "fat_g":5.2,
+    "carbs_g":17.3
+  },
+  {
+    "id":73,
+    "description":"Beans And Rice, With Tomatoes",
+    "calories":137.0,
+    "protein_g":4.7,
+    "fat_g":3.5,
+    "carbs_g":21.9
+  },
+  {
+    "id":74,
+    "description":"Beans, Liquid From Stewed Kidney Beans",
+    "calories":47.0,
+    "protein_g":1.8,
+    "fat_g":3.2,
+    "carbs_g":2.8
+  },
+  {
+    "id":75,
+    "description":"Beans, Nfs",
+    "calories":189.0,
+    "protein_g":8.3,
+    "fat_g":7.1,
+    "carbs_g":23.8
+  },
+  {
+    "id":76,
+    "description":"Beef",
+    "calories":186.8,
+    "protein_g":15.1,
+    "fat_g":12.3,
+    "carbs_g":3.8
+  },
+  {
+    "id":77,
+    "description":"Beef And Broccoli",
+    "calories":160.0,
+    "protein_g":10.4,
+    "fat_g":10.6,
+    "carbs_g":5.1
+  },
+  {
+    "id":78,
+    "description":"Beef Burgundy",
+    "calories":148.0,
+    "protein_g":18.5,
+    "fat_g":6.0,
+    "carbs_g":4.2
+  },
+  {
+    "id":79,
+    "description":"Beef With Mushroom Sauce",
+    "calories":163.0,
+    "protein_g":22.0,
+    "fat_g":7.5,
+    "carbs_g":1.8
+  },
+  {
+    "id":80,
+    "description":"Beef, Brisket",
+    "calories":231.0,
+    "protein_g":29.4,
+    "fat_g":12.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":81,
+    "description":"Beef, Corned",
+    "calories":251.0,
+    "protein_g":18.2,
+    "fat_g":19.0,
+    "carbs_g":0.5
+  },
+  {
+    "id":82,
+    "description":"Beef, Cured, Corned Beef, Brisket, Cooked",
+    "calories":251.0,
+    "protein_g":18.2,
+    "fat_g":19.0,
+    "carbs_g":0.5
+  },
+  {
+    "id":83,
+    "description":"Beef, Cured, Corned Beef, Brisket, Raw",
+    "calories":198.0,
+    "protein_g":14.7,
+    "fat_g":14.9,
+    "carbs_g":0.1
+  },
+  {
+    "id":84,
+    "description":"Beef, Cured, Corned Beef, Canned",
+    "calories":250.0,
+    "protein_g":27.1,
+    "fat_g":14.9,
+    "carbs_g":0.0
+  },
+  {
+    "id":85,
+    "description":"Beef, Ground",
+    "calories":261.0,
+    "protein_g":25.6,
+    "fat_g":16.8,
+    "carbs_g":0.0
+  },
+  {
+    "id":86,
+    "description":"Beef, Nfs",
+    "calories":231.0,
+    "protein_g":27.1,
+    "fat_g":13.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":87,
+    "description":"Beef, Oxtails",
+    "calories":257.0,
+    "protein_g":25.9,
+    "fat_g":16.5,
+    "carbs_g":0.0
+  },
+  {
+    "id":88,
+    "description":"Beef, Roast",
+    "calories":206.0,
+    "protein_g":29.1,
+    "fat_g":9.7,
+    "carbs_g":0.0
+  },
+  {
+    "id":89,
+    "description":"Beverages, Carbonated, Orange",
+    "calories":48.0,
+    "protein_g":0.0,
+    "fat_g":0.0,
+    "carbs_g":12.3
+  },
+  {
+    "id":90,
+    "description":"Bologna, Turkey",
+    "calories":209.0,
+    "protein_g":11.4,
+    "fat_g":16.0,
+    "carbs_g":4.7
+  },
+  {
+    "id":91,
+    "description":"Bread",
+    "calories":774.6,
+    "protein_g":24.6,
+    "fat_g":12.0,
+    "carbs_g":152.9
+  },
+  {
+    "id":92,
+    "description":"Bread, Egg",
+    "calories":287.0,
+    "protein_g":9.5,
+    "fat_g":6.0,
+    "carbs_g":47.8
+  },
+  {
+    "id":93,
+    "description":"Bread, Fruit",
+    "calories":374.0,
+    "protein_g":6.0,
+    "fat_g":18.1,
+    "carbs_g":47.3
+  },
+  {
+    "id":94,
+    "description":"Bread, Naan",
+    "calories":311.0,
+    "protein_g":11.1,
+    "fat_g":7.3,
+    "carbs_g":50.2
+  },
+  {
+    "id":95,
+    "description":"Bread, Oat Bran",
+    "calories":267.5,
+    "protein_g":9.9,
+    "fat_g":4.6,
+    "carbs_g":46.8
+  },
+  {
+    "id":96,
+    "description":"Bread, Oat Bran, Toasted",
+    "calories":277.5,
+    "protein_g":10.3,
+    "fat_g":4.8,
+    "carbs_g":48.5
+  },
+  {
+    "id":97,
+    "description":"Bread, Potato",
+    "calories":266.0,
+    "protein_g":12.5,
+    "fat_g":3.1,
+    "carbs_g":47.1
+  },
+  {
+    "id":98,
+    "description":"Bread, Puri",
+    "calories":409.0,
+    "protein_g":6.8,
+    "fat_g":24.9,
+    "carbs_g":39.2
+  },
+  {
+    "id":99,
+    "description":"Bread, Rice",
+    "calories":248.0,
+    "protein_g":4.3,
+    "fat_g":5.2,
+    "carbs_g":45.8
+  },
+  {
+    "id":100,
+    "description":"Bread, Sweet Potato",
+    "calories":241.0,
+    "protein_g":8.6,
+    "fat_g":2.9,
+    "carbs_g":45.4
+  },
+  {
+    "id":101,
+    "description":"Bread, Sweet Potato, Toasted",
+    "calories":265.0,
+    "protein_g":9.5,
+    "fat_g":3.2,
+    "carbs_g":49.9
+  },
+  {
+    "id":102,
+    "description":"Bread, Zucchini",
+    "calories":306.0,
+    "protein_g":5.0,
+    "fat_g":13.1,
+    "carbs_g":42.6
+  },
+  {
+    "id":103,
+    "description":"Broccoli",
+    "calories":28.0,
+    "protein_g":2.4,
+    "fat_g":0.1,
+    "carbs_g":4.6
+  },
+  {
+    "id":104,
+    "description":"Broccoli Casserole With Noodles",
+    "calories":112.0,
+    "protein_g":3.6,
+    "fat_g":3.8,
+    "carbs_g":15.9
+  },
+  {
+    "id":105,
+    "description":"Broccoli Casserole With Rice",
+    "calories":107.0,
+    "protein_g":4.1,
+    "fat_g":3.6,
+    "carbs_g":15.1
+  },
+  {
+    "id":106,
+    "description":"Broccoli Raab, Cooked",
+    "calories":75.0,
+    "protein_g":3.5,
+    "fat_g":1.8,
+    "carbs_g":3.0
+  },
+  {
+    "id":107,
+    "description":"Broccoli Raab, Raw",
+    "calories":57.0,
+    "protein_g":3.2,
+    "fat_g":0.5,
+    "carbs_g":2.8
+  },
+  {
+    "id":108,
+    "description":"Broccoli Slaw Salad",
+    "calories":123.0,
+    "protein_g":2.0,
+    "fat_g":8.1,
+    "carbs_g":10.4
+  },
+  {
+    "id":109,
+    "description":"Broccoli, Chinese, Cooked",
+    "calories":36.0,
+    "protein_g":1.2,
+    "fat_g":2.1,
+    "carbs_g":4.3
+  },
+  {
+    "id":110,
+    "description":"Broccoli, Chinese, Raw",
+    "calories":26.0,
+    "protein_g":1.2,
+    "fat_g":0.8,
+    "carbs_g":4.7
+  },
+  {
+    "id":111,
+    "description":"Broccoli, Raw",
+    "calories":34.7,
+    "protein_g":2.7,
+    "fat_g":0.4,
+    "carbs_g":6.4
+  },
+  {
+    "id":112,
+    "description":"Bulgur",
+    "calories":277.7,
+    "protein_g":9.5,
+    "fat_g":1.5,
+    "carbs_g":58.3
+  },
+  {
+    "id":113,
+    "description":"Bulgur #4",
+    "calories":360.0,
+    "protein_g":12.0,
+    "fat_g":1.5,
+    "carbs_g":74.0
+  },
+  {
+    "id":114,
+    "description":"Bulgur & Artichokes Organic Italian Meals, Bulgur & Artichokes",
+    "calories":310.0,
+    "protein_g":14.0,
+    "fat_g":4.0,
+    "carbs_g":58.0
+  },
+  {
+    "id":115,
+    "description":"Bulgur & Quinoa",
+    "calories":400.0,
+    "protein_g":12.9,
+    "fat_g":2.1,
+    "carbs_g":74.3
+  },
+  {
+    "id":116,
+    "description":"Bulgur And Quinoa With Chickpeas",
+    "calories":132.0,
+    "protein_g":4.4,
+    "fat_g":2.6,
+    "carbs_g":22.8
+  },
+  {
+    "id":117,
+    "description":"Bulgur Quinoa With Vedetables",
+    "calories":179.0,
+    "protein_g":5.0,
+    "fat_g":5.7,
+    "carbs_g":28.6
+  },
+  {
+    "id":118,
+    "description":"Bulgur Wheat",
+    "calories":200.0,
+    "protein_g":20.0,
+    "fat_g":0.0,
+    "carbs_g":0.1
+  },
+  {
+    "id":119,
+    "description":"Bulgur, Cooked",
+    "calories":83.0,
+    "protein_g":3.1,
+    "fat_g":0.2,
+    "carbs_g":18.6
+  },
+  {
+    "id":120,
+    "description":"Bulgur, Dry",
+    "calories":342.0,
+    "protein_g":12.3,
+    "fat_g":1.3,
+    "carbs_g":75.9
+  },
+  {
+    "id":121,
+    "description":"Bulgur, Fat Added",
+    "calories":121.0,
+    "protein_g":2.9,
+    "fat_g":5.1,
+    "carbs_g":17.3
+  },
+  {
+    "id":122,
+    "description":"Bulgur, No Added Fat",
+    "calories":83.0,
+    "protein_g":3.1,
+    "fat_g":0.2,
+    "carbs_g":18.5
+  },
+  {
+    "id":123,
+    "description":"Bulgur, Ns As To Fat",
+    "calories":83.0,
+    "protein_g":3.1,
+    "fat_g":0.2,
+    "carbs_g":18.5
+  },
+  {
+    "id":124,
+    "description":"Cake Or Cupcake, Apple",
+    "calories":376.0,
+    "protein_g":2.4,
+    "fat_g":17.5,
+    "carbs_g":52.5
+  },
+  {
+    "id":125,
+    "description":"Cake Or Cupcake, Banana",
+    "calories":379.0,
+    "protein_g":2.5,
+    "fat_g":17.5,
+    "carbs_g":53.1
+  },
+  {
+    "id":126,
+    "description":"Cake Or Cupcake, Carrot",
+    "calories":374.0,
+    "protein_g":2.5,
+    "fat_g":17.5,
+    "carbs_g":51.8
+  },
+  {
+    "id":127,
+    "description":"Cake Or Cupcake, Strawberry",
+    "calories":326.0,
+    "protein_g":2.2,
+    "fat_g":12.9,
+    "carbs_g":50.2
+  },
+  {
+    "id":128,
+    "description":"Cake, Strawberry Shortcake",
+    "calories":214.0,
+    "protein_g":3.3,
+    "fat_g":4.7,
+    "carbs_g":40.1
+  },
+  {
+    "id":129,
+    "description":"Carrot Juice, 100%",
+    "calories":40.0,
+    "protein_g":1.0,
+    "fat_g":0.2,
+    "carbs_g":9.3
+  },
+  {
+    "id":130,
+    "description":"Carrot Juice, Canned",
+    "calories":40.0,
+    "protein_g":1.0,
+    "fat_g":0.2,
+    "carbs_g":9.3
+  },
+  {
+    "id":131,
+    "description":"Carrot, Dehydrated",
+    "calories":341.0,
+    "protein_g":8.1,
+    "fat_g":1.5,
+    "carbs_g":79.6
+  },
+  {
+    "id":132,
+    "description":"Carrots, Baby, Raw",
+    "calories":145.0,
+    "protein_g":0.6,
+    "fat_g":0.1,
+    "carbs_g":8.2
+  },
+  {
+    "id":133,
+    "description":"Carrots, Canned, Cooked With Oil",
+    "calories":50.0,
+    "protein_g":0.6,
+    "fat_g":3.1,
+    "carbs_g":5.4
+  },
+  {
+    "id":134,
+    "description":"Carrots, Cooked, As Ingredient",
+    "calories":50.0,
+    "protein_g":1.0,
+    "fat_g":0.4,
+    "carbs_g":10.7
+  },
+  {
+    "id":135,
+    "description":"Carrots, Cooked, From Restaurant",
+    "calories":86.0,
+    "protein_g":0.9,
+    "fat_g":4.7,
+    "carbs_g":10.2
+  },
+  {
+    "id":136,
+    "description":"Carrots, Fresh, Cooked With Oil",
+    "calories":76.0,
+    "protein_g":1.0,
+    "fat_g":3.4,
+    "carbs_g":10.4
+  },
+  {
+    "id":137,
+    "description":"Carrots, Frozen, Cooked With Oil",
+    "calories":64.0,
+    "protein_g":0.8,
+    "fat_g":3.4,
+    "carbs_g":7.7
+  },
+  {
+    "id":138,
+    "description":"Carrots, Frozen, Unprepared",
+    "calories":153.0,
+    "protein_g":0.8,
+    "fat_g":0.5,
+    "carbs_g":7.9
+  },
+  {
+    "id":139,
+    "description":"Carrots, Glazed, Cooked",
+    "calories":97.0,
+    "protein_g":0.9,
+    "fat_g":2.8,
+    "carbs_g":17.3
+  },
+  {
+    "id":140,
+    "description":"Carrots, Raw",
+    "calories":108.5,
+    "protein_g":0.9,
+    "fat_g":0.2,
+    "carbs_g":9.6
+  },
+  {
+    "id":141,
+    "description":"Carrots, Raw, Salad",
+    "calories":212.0,
+    "protein_g":1.2,
+    "fat_g":15.7,
+    "carbs_g":17.6
+  },
+  {
+    "id":142,
+    "description":"Carrots, Raw, Salad With Apples",
+    "calories":181.0,
+    "protein_g":0.8,
+    "fat_g":16.0,
+    "carbs_g":8.6
+  },
+  {
+    "id":143,
+    "description":"Cereal, Frosted Oats With Marshmallows",
+    "calories":372.0,
+    "protein_g":8.2,
+    "fat_g":4.1,
+    "carbs_g":76.6
+  },
+  {
+    "id":144,
+    "description":"Cereal, Oat Bunches",
+    "calories":392.0,
+    "protein_g":7.4,
+    "fat_g":6.1,
+    "carbs_g":76.2
+  },
+  {
+    "id":145,
+    "description":"Cereal, Oat Squares",
+    "calories":379.0,
+    "protein_g":10.4,
+    "fat_g":5.2,
+    "carbs_g":73.3
+  },
+  {
+    "id":146,
+    "description":"Cereals, Quaker, Instant Oatmeal, Raisins, Dates And Walnuts, Dry",
+    "calories":1550.0,
+    "protein_g":8.8,
+    "fat_g":7.0,
+    "carbs_g":72.4
+  },
+  {
+    "id":147,
+    "description":"Cereals, Quaker, Oat Bran, Quaker\/Mother'S Oat Bran, Dry",
+    "calories":1520.0,
+    "protein_g":17.0,
+    "fat_g":8.0,
+    "carbs_g":62.9
+  },
+  {
+    "id":148,
+    "description":"Cereals, Quaker, Oatmeal, Real Medleys, Apple Walnut, Dry",
+    "calories":1630.0,
+    "protein_g":8.2,
+    "fat_g":10.4,
+    "carbs_g":70.5
+  },
+  {
+    "id":149,
+    "description":"Cheese",
+    "calories":374.4,
+    "protein_g":22.6,
+    "fat_g":30.2,
+    "carbs_g":7.6
+  },
+  {
+    "id":150,
+    "description":"Chicken Breast",
+    "calories":114.7,
+    "protein_g":18.0,
+    "fat_g":3.4,
+    "carbs_g":2.3
+  },
+  {
+    "id":151,
+    "description":"Chicken Breast Tenders, Breaded, Uncooked",
+    "calories":1100.0,
+    "protein_g":14.7,
+    "fat_g":15.8,
+    "carbs_g":15.0
+  },
+  {
+    "id":152,
+    "description":"Chicken Breast, Roll, Oven-Roasted",
+    "calories":562.0,
+    "protein_g":14.6,
+    "fat_g":7.6,
+    "carbs_g":1.8
+  },
+  {
+    "id":153,
+    "description":"Chicken Breast, Rotisserie, Skin Eaten",
+    "calories":175.0,
+    "protein_g":26.4,
+    "fat_g":7.7,
+    "carbs_g":0.1
+  },
+  {
+    "id":154,
+    "description":"Chicken Breast, Rotisserie, Skin Not Eaten",
+    "calories":144.0,
+    "protein_g":28.0,
+    "fat_g":3.6,
+    "carbs_g":0.0
+  },
+  {
+    "id":155,
+    "description":"Chicken Breast, Sauteed, Skin Eaten",
+    "calories":206.0,
+    "protein_g":25.7,
+    "fat_g":10.6,
+    "carbs_g":0.0
+  },
+  {
+    "id":156,
+    "description":"Chicken Breast, Sauteed, Skin Not Eaten",
+    "calories":176.0,
+    "protein_g":29.6,
+    "fat_g":5.4,
+    "carbs_g":0.0
+  },
+  {
+    "id":157,
+    "description":"Chicken Breast, Stewed, Skin Eaten",
+    "calories":181.0,
+    "protein_g":24.7,
+    "fat_g":8.3,
+    "carbs_g":0.0
+  },
+  {
+    "id":158,
+    "description":"Chicken Breast, Stewed, Skin Not Eaten",
+    "calories":149.0,
+    "protein_g":28.0,
+    "fat_g":3.3,
+    "carbs_g":0.0
+  },
+  {
+    "id":159,
+    "description":"Chicken Or Turkey Cacciatore",
+    "calories":174.0,
+    "protein_g":13.2,
+    "fat_g":10.6,
+    "carbs_g":6.9
+  },
+  {
+    "id":160,
+    "description":"Chicken Or Turkey Divan",
+    "calories":140.0,
+    "protein_g":15.5,
+    "fat_g":7.3,
+    "carbs_g":4.0
+  },
+  {
+    "id":161,
+    "description":"Chickpea Flour (Besan)",
+    "calories":387.0,
+    "protein_g":22.4,
+    "fat_g":6.7,
+    "carbs_g":57.8
+  },
+  {
+    "id":162,
+    "description":"Chickpeas",
+    "calories":115.8,
+    "protein_g":6.5,
+    "fat_g":1.6,
+    "carbs_g":17.5
+  },
+  {
+    "id":163,
+    "description":"Chickpeas (Garbanzo Beans, Bengal Gram), Mature Seeds, Canned, Drained Solids",
+    "calories":139.0,
+    "protein_g":7.0,
+    "fat_g":2.8,
+    "carbs_g":22.5
+  },
+  {
+    "id":164,
+    "description":"Chickpeas (Garbanzo Beans, Bengal Gram), Mature Seeds, Canned, Solids And Liquids",
+    "calories":369.0,
+    "protein_g":4.9,
+    "fat_g":2.0,
+    "carbs_g":13.5
+  },
+  {
+    "id":165,
+    "description":"Chickpeas (Garbanzo Beans, Bengal Gram), Mature Seeds, Cooked, Boiled, With Salt",
+    "calories":686.0,
+    "protein_g":8.9,
+    "fat_g":2.6,
+    "carbs_g":27.4
+  },
+  {
+    "id":166,
+    "description":"Chickpeas (Garbanzo Beans, Bengal Gram), Mature Seeds, Cooked, Boiled, Without Salt",
+    "calories":164.0,
+    "protein_g":8.9,
+    "fat_g":2.6,
+    "carbs_g":27.4
+  },
+  {
+    "id":167,
+    "description":"Chickpeas (Garbanzo Beans, Bengal Gram), Mature Seeds, Raw",
+    "calories":1580.0,
+    "protein_g":20.5,
+    "fat_g":6.0,
+    "carbs_g":63.0
+  },
+  {
+    "id":168,
+    "description":"Chickpeas, From Canned, Fat Added",
+    "calories":197.0,
+    "protein_g":7.9,
+    "fat_g":9.4,
+    "carbs_g":21.6
+  },
+  {
+    "id":169,
+    "description":"Chickpeas, From Canned, No Added Fat",
+    "calories":146.0,
+    "protein_g":8.2,
+    "fat_g":3.2,
+    "carbs_g":22.4
+  },
+  {
+    "id":170,
+    "description":"Chickpeas, From Canned, Reduced Sodium",
+    "calories":197.0,
+    "protein_g":7.9,
+    "fat_g":9.4,
+    "carbs_g":21.6
+  },
+  {
+    "id":171,
+    "description":"Chickpeas, From Dried, Fat Added",
+    "calories":211.0,
+    "protein_g":8.2,
+    "fat_g":8.9,
+    "carbs_g":25.5
+  },
+  {
+    "id":172,
+    "description":"Chickpeas, From Dried, No Added Fat",
+    "calories":163.0,
+    "protein_g":8.8,
+    "fat_g":2.6,
+    "carbs_g":27.3
+  },
+  {
+    "id":173,
+    "description":"Chickpeas, Nfs",
+    "calories":211.0,
+    "protein_g":8.2,
+    "fat_g":8.9,
+    "carbs_g":25.5
+  },
+  {
+    "id":174,
+    "description":"Chimichanga, With Beans",
+    "calories":260.0,
+    "protein_g":7.4,
+    "fat_g":13.8,
+    "carbs_g":26.8
+  },
+  {
+    "id":175,
+    "description":"Chips, Rice",
+    "calories":384.0,
+    "protein_g":8.2,
+    "fat_g":2.8,
+    "carbs_g":81.5
+  },
+  {
+    "id":176,
+    "description":"Coarse Bulgur Wheat",
+    "calories":367.0,
+    "protein_g":13.3,
+    "fat_g":0.0,
+    "carbs_g":76.7
+  },
+  {
+    "id":177,
+    "description":"Cobbler, Apple",
+    "calories":217.0,
+    "protein_g":2.0,
+    "fat_g":8.7,
+    "carbs_g":33.6
+  },
+  {
+    "id":178,
+    "description":"Congee, With Egg",
+    "calories":60.0,
+    "protein_g":3.1,
+    "fat_g":2.1,
+    "carbs_g":6.9
+  },
+  {
+    "id":179,
+    "description":"Cookie, Almond",
+    "calories":514.0,
+    "protein_g":5.4,
+    "fat_g":26.2,
+    "carbs_g":63.8
+  },
+  {
+    "id":180,
+    "description":"Corn",
+    "calories":178.8,
+    "protein_g":3.3,
+    "fat_g":7.3,
+    "carbs_g":26.0
+  },
+  {
+    "id":181,
+    "description":"Corn Beverage",
+    "calories":44.0,
+    "protein_g":0.8,
+    "fat_g":0.2,
+    "carbs_g":9.4
+  },
+  {
+    "id":182,
+    "description":"Corn Dog",
+    "calories":250.0,
+    "protein_g":8.6,
+    "fat_g":12.0,
+    "carbs_g":27.0
+  },
+  {
+    "id":183,
+    "description":"Corn Grain, White",
+    "calories":365.0,
+    "protein_g":9.4,
+    "fat_g":4.7,
+    "carbs_g":74.3
+  },
+  {
+    "id":184,
+    "description":"Corn Grain, Yellow",
+    "calories":365.0,
+    "protein_g":9.4,
+    "fat_g":4.7,
+    "carbs_g":74.3
+  },
+  {
+    "id":185,
+    "description":"Corn Nuts",
+    "calories":446.0,
+    "protein_g":8.5,
+    "fat_g":15.6,
+    "carbs_g":71.9
+  },
+  {
+    "id":186,
+    "description":"Corn Oil",
+    "calories":900.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":187,
+    "description":"Corn Syrup",
+    "calories":283.0,
+    "protein_g":0.0,
+    "fat_g":0.2,
+    "carbs_g":76.8
+  },
+  {
+    "id":188,
+    "description":"Corn, Creamed",
+    "calories":72.0,
+    "protein_g":1.7,
+    "fat_g":0.4,
+    "carbs_g":18.1
+  },
+  {
+    "id":189,
+    "description":"Corn, Raw",
+    "calories":86.0,
+    "protein_g":3.3,
+    "fat_g":1.4,
+    "carbs_g":18.7
+  },
+  {
+    "id":190,
+    "description":"Cottage Cheese",
+    "calories":88.8,
+    "protein_g":11.0,
+    "fat_g":2.9,
+    "carbs_g":4.4
+  },
+  {
+    "id":191,
+    "description":"Crackers, Rice",
+    "calories":416.0,
+    "protein_g":10.0,
+    "fat_g":5.0,
+    "carbs_g":82.6
+  },
+  {
+    "id":192,
+    "description":"Cream Of Rice",
+    "calories":69.0,
+    "protein_g":1.2,
+    "fat_g":0.1,
+    "carbs_g":15.3
+  },
+  {
+    "id":193,
+    "description":"Crisp, Apple",
+    "calories":215.0,
+    "protein_g":2.8,
+    "fat_g":9.6,
+    "carbs_g":30.2
+  },
+  {
+    "id":194,
+    "description":"Croissants, Apple",
+    "calories":254.0,
+    "protein_g":7.4,
+    "fat_g":8.7,
+    "carbs_g":37.1
+  },
+  {
+    "id":195,
+    "description":"Cucumber And Vegetable Namasu",
+    "calories":56.0,
+    "protein_g":0.5,
+    "fat_g":0.2,
+    "carbs_g":12.2
+  },
+  {
+    "id":196,
+    "description":"Cucumber Hummus, Cucumber",
+    "calories":179.0,
+    "protein_g":7.1,
+    "fat_g":10.7,
+    "carbs_g":14.3
+  },
+  {
+    "id":197,
+    "description":"Cucumber Salad Made With Cucumber And Vinegar",
+    "calories":34.0,
+    "protein_g":0.5,
+    "fat_g":0.1,
+    "carbs_g":6.8
+  },
+  {
+    "id":198,
+    "description":"Cucumber Salad, Made With Italian Dressing",
+    "calories":120.0,
+    "protein_g":0.5,
+    "fat_g":10.0,
+    "carbs_g":6.2
+  },
+  {
+    "id":199,
+    "description":"Cucumber Salad, Made With Sour Cream Dressing",
+    "calories":66.0,
+    "protein_g":1.3,
+    "fat_g":5.2,
+    "carbs_g":3.7
+  },
+  {
+    "id":200,
+    "description":"Cucumber, Cooked",
+    "calories":45.0,
+    "protein_g":0.7,
+    "fat_g":3.2,
+    "carbs_g":3.4
+  },
+  {
+    "id":201,
+    "description":"Cucumber, For Use On A Sandwich",
+    "calories":16.0,
+    "protein_g":0.6,
+    "fat_g":0.2,
+    "carbs_g":3.0
+  },
+  {
+    "id":202,
+    "description":"Cucumber, Peeled, Raw",
+    "calories":10.0,
+    "protein_g":0.6,
+    "fat_g":0.2,
+    "carbs_g":2.2
+  },
+  {
+    "id":203,
+    "description":"Cucumber, Raw",
+    "calories":16.0,
+    "protein_g":0.6,
+    "fat_g":0.2,
+    "carbs_g":3.0
+  },
+  {
+    "id":204,
+    "description":"Cucumber, With Peel, Raw",
+    "calories":65.0,
+    "protein_g":0.6,
+    "fat_g":0.1,
+    "carbs_g":3.6
+  },
+  {
+    "id":205,
+    "description":"Dirty Rice",
+    "calories":112.0,
+    "protein_g":5.1,
+    "fat_g":2.2,
+    "carbs_g":17.2
+  },
+  {
+    "id":206,
+    "description":"Egg",
+    "calories":346.3,
+    "protein_g":5.9,
+    "fat_g":13.4,
+    "carbs_g":50.0
+  },
+  {
+    "id":207,
+    "description":"Egg Burrito",
+    "calories":249.0,
+    "protein_g":10.9,
+    "fat_g":13.7,
+    "carbs_g":20.1
+  },
+  {
+    "id":208,
+    "description":"Egg Omelet Or Scrambled Egg, Made With Butter",
+    "calories":182.0,
+    "protein_g":11.6,
+    "fat_g":14.6,
+    "carbs_g":0.9
+  },
+  {
+    "id":209,
+    "description":"Egg Omelet Or Scrambled Egg, Made With Margarine",
+    "calories":171.0,
+    "protein_g":11.6,
+    "fat_g":13.5,
+    "carbs_g":1.0
+  },
+  {
+    "id":210,
+    "description":"Egg Omelet Or Scrambled Egg, Made With Oil",
+    "calories":192.0,
+    "protein_g":11.6,
+    "fat_g":15.8,
+    "carbs_g":0.9
+  },
+  {
+    "id":211,
+    "description":"Egg Omelet Or Scrambled Egg, No Added Fat",
+    "calories":143.0,
+    "protein_g":12.4,
+    "fat_g":9.9,
+    "carbs_g":1.0
+  },
+  {
+    "id":212,
+    "description":"Egg Omelet Or Scrambled Egg, Ns As To Fat",
+    "calories":185.0,
+    "protein_g":11.6,
+    "fat_g":15.0,
+    "carbs_g":0.9
+  },
+  {
+    "id":213,
+    "description":"Egg, Benedict",
+    "calories":288.0,
+    "protein_g":13.8,
+    "fat_g":22.1,
+    "carbs_g":8.5
+  },
+  {
+    "id":214,
+    "description":"Egg, Creamed",
+    "calories":148.0,
+    "protein_g":7.8,
+    "fat_g":10.4,
+    "carbs_g":5.5
+  },
+  {
+    "id":215,
+    "description":"Egg, Deviled",
+    "calories":198.0,
+    "protein_g":11.5,
+    "fat_g":15.9,
+    "carbs_g":1.1
+  },
+  {
+    "id":216,
+    "description":"Eggs, Grade A, Large, Egg White",
+    "calories":55.0,
+    "protein_g":10.7,
+    "fat_g":0.0,
+    "carbs_g":2.4
+  },
+  {
+    "id":217,
+    "description":"Eggs, Grade A, Large, Egg Whole",
+    "calories":617.0,
+    "protein_g":12.4,
+    "fat_g":10.0,
+    "carbs_g":1.0
+  },
+  {
+    "id":218,
+    "description":"Eggs, Grade A, Large, Egg Yolk",
+    "calories":1400.0,
+    "protein_g":16.2,
+    "fat_g":28.8,
+    "carbs_g":1.0
+  },
+  {
+    "id":219,
+    "description":"Fat, Turkey",
+    "calories":900.0,
+    "protein_g":0.0,
+    "fat_g":99.8,
+    "carbs_g":0.0
+  },
+  {
+    "id":220,
+    "description":"Fish Oil, Salmon",
+    "calories":902.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":221,
+    "description":"Fish, Salmon Cake Or Patty",
+    "calories":285.0,
+    "protein_g":16.1,
+    "fat_g":22.1,
+    "carbs_g":4.5
+  },
+  {
+    "id":222,
+    "description":"Fish, Salmon, Baked Or Broiled",
+    "calories":274.0,
+    "protein_g":25.4,
+    "fat_g":18.4,
+    "carbs_g":0.0
+  },
+  {
+    "id":223,
+    "description":"Fish, Salmon, Canned",
+    "calories":136.0,
+    "protein_g":24.6,
+    "fat_g":4.2,
+    "carbs_g":0.0
+  },
+  {
+    "id":224,
+    "description":"Fish, Salmon, Chinook, Raw",
+    "calories":750.0,
+    "protein_g":19.9,
+    "fat_g":10.4,
+    "carbs_g":0.0
+  },
+  {
+    "id":225,
+    "description":"Fish, Salmon, Fried",
+    "calories":307.0,
+    "protein_g":17.4,
+    "fat_g":20.7,
+    "carbs_g":11.7
+  },
+  {
+    "id":226,
+    "description":"Fish, Salmon, Grilled",
+    "calories":259.0,
+    "protein_g":25.9,
+    "fat_g":16.5,
+    "carbs_g":0.0
+  },
+  {
+    "id":227,
+    "description":"Fish, Salmon, Nfs",
+    "calories":274.0,
+    "protein_g":25.4,
+    "fat_g":18.4,
+    "carbs_g":0.0
+  },
+  {
+    "id":228,
+    "description":"Fish, Salmon, Raw",
+    "calories":188.0,
+    "protein_g":20.4,
+    "fat_g":11.2,
+    "carbs_g":0.0
+  },
+  {
+    "id":229,
+    "description":"Fish, Salmon, Smoked",
+    "calories":117.0,
+    "protein_g":18.3,
+    "fat_g":4.3,
+    "carbs_g":0.0
+  },
+  {
+    "id":230,
+    "description":"Fish, Salmon, Steamed",
+    "calories":237.0,
+    "protein_g":25.8,
+    "fat_g":14.1,
+    "carbs_g":0.0
+  },
+  {
+    "id":231,
+    "description":"Fish, Tofu, And Vegetables, Tempura",
+    "calories":177.0,
+    "protein_g":4.0,
+    "fat_g":16.0,
+    "carbs_g":4.5
+  },
+  {
+    "id":232,
+    "description":"Fish, Tuna Salad",
+    "calories":187.0,
+    "protein_g":16.0,
+    "fat_g":9.3,
+    "carbs_g":9.4
+  },
+  {
+    "id":233,
+    "description":"Fish, Tuna, Canned",
+    "calories":85.0,
+    "protein_g":19.0,
+    "fat_g":0.9,
+    "carbs_g":0.1
+  },
+  {
+    "id":234,
+    "description":"Fish, Tuna, Cooked",
+    "calories":176.0,
+    "protein_g":30.3,
+    "fat_g":5.1,
+    "carbs_g":0.0
+  },
+  {
+    "id":235,
+    "description":"Fish, Tuna, Nfs",
+    "calories":85.0,
+    "protein_g":19.0,
+    "fat_g":0.9,
+    "carbs_g":0.1
+  },
+  {
+    "id":236,
+    "description":"Fish, Tuna, Raw",
+    "calories":109.0,
+    "protein_g":24.4,
+    "fat_g":0.5,
+    "carbs_g":0.0
+  },
+  {
+    "id":237,
+    "description":"Flavored Pasta",
+    "calories":87.0,
+    "protein_g":2.5,
+    "fat_g":2.2,
+    "carbs_g":14.4
+  },
+  {
+    "id":238,
+    "description":"Frankfurter, Turkey",
+    "calories":933.0,
+    "protein_g":12.2,
+    "fat_g":17.3,
+    "carbs_g":3.8
+  },
+  {
+    "id":239,
+    "description":"Fried Broccoli",
+    "calories":223.0,
+    "protein_g":4.3,
+    "fat_g":12.9,
+    "carbs_g":22.4
+  },
+  {
+    "id":240,
+    "description":"Fried Green Tomatoes",
+    "calories":216.0,
+    "protein_g":3.7,
+    "fat_g":12.8,
+    "carbs_g":21.8
+  },
+  {
+    "id":241,
+    "description":"Fried Mushrooms",
+    "calories":222.0,
+    "protein_g":4.6,
+    "fat_g":12.9,
+    "carbs_g":21.9
+  },
+  {
+    "id":242,
+    "description":"Fritter, Corn",
+    "calories":404.0,
+    "protein_g":7.4,
+    "fat_g":27.1,
+    "carbs_g":33.6
+  },
+  {
+    "id":243,
+    "description":"Frozen Yogurt Sandwich",
+    "calories":204.0,
+    "protein_g":3.9,
+    "fat_g":6.2,
+    "carbs_g":34.4
+  },
+  {
+    "id":244,
+    "description":"Frozen Yogurt, Chocolate",
+    "calories":131.0,
+    "protein_g":3.0,
+    "fat_g":3.6,
+    "carbs_g":21.6
+  },
+  {
+    "id":245,
+    "description":"Frozen Yogurt, Nfs",
+    "calories":127.0,
+    "protein_g":3.0,
+    "fat_g":3.6,
+    "carbs_g":21.6
+  },
+  {
+    "id":246,
+    "description":"Frozen Yogurt, Vanilla",
+    "calories":127.0,
+    "protein_g":3.0,
+    "fat_g":3.6,
+    "carbs_g":21.6
+  },
+  {
+    "id":247,
+    "description":"Frozen Yogurts, Chocolate",
+    "calories":547.0,
+    "protein_g":3.0,
+    "fat_g":3.6,
+    "carbs_g":21.6
+  },
+  {
+    "id":248,
+    "description":"Fruit Butters, Apple",
+    "calories":724.0,
+    "protein_g":0.4,
+    "fat_g":0.3,
+    "carbs_g":42.5
+  },
+  {
+    "id":249,
+    "description":"Gnocchi, Potato",
+    "calories":135.0,
+    "protein_g":2.4,
+    "fat_g":6.3,
+    "carbs_g":17.2
+  },
+  {
+    "id":250,
+    "description":"Gordita, With Beans",
+    "calories":207.0,
+    "protein_g":5.8,
+    "fat_g":11.8,
+    "carbs_g":20.2
+  },
+  {
+    "id":251,
+    "description":"Gravy, Mushroom, Canned",
+    "calories":50.0,
+    "protein_g":1.3,
+    "fat_g":2.7,
+    "carbs_g":5.5
+  },
+  {
+    "id":252,
+    "description":"Greek Bulgur",
+    "calories":324.0,
+    "protein_g":11.7,
+    "fat_g":1.2,
+    "carbs_g":71.4
+  },
+  {
+    "id":253,
+    "description":"Green Beans, Raw",
+    "calories":40.0,
+    "protein_g":2.0,
+    "fat_g":0.3,
+    "carbs_g":7.4
+  },
+  {
+    "id":254,
+    "description":"Guacamole With Tomatoes",
+    "calories":145.0,
+    "protein_g":1.9,
+    "fat_g":13.1,
+    "carbs_g":8.1
+  },
+  {
+    "id":255,
+    "description":"Guacamole, Nfs",
+    "calories":155.0,
+    "protein_g":2.0,
+    "fat_g":14.2,
+    "carbs_g":8.4
+  },
+  {
+    "id":256,
+    "description":"Guavas, Strawberry, Raw",
+    "calories":69.0,
+    "protein_g":0.6,
+    "fat_g":0.6,
+    "carbs_g":17.4
+  },
+  {
+    "id":257,
+    "description":"Gumbo With Rice",
+    "calories":89.0,
+    "protein_g":8.2,
+    "fat_g":3.4,
+    "carbs_g":6.6
+  },
+  {
+    "id":258,
+    "description":"Gumbo, No Rice",
+    "calories":83.0,
+    "protein_g":8.5,
+    "fat_g":3.7,
+    "carbs_g":4.0
+  },
+  {
+    "id":259,
+    "description":"Heartland, Bulgur Wheat",
+    "calories":350.0,
+    "protein_g":12.5,
+    "fat_g":1.2,
+    "carbs_g":75.0
+  },
+  {
+    "id":260,
+    "description":"House Foods Premium Firm Tofu",
+    "calories":85.0,
+    "protein_g":10.9,
+    "fat_g":4.2,
+    "carbs_g":1.0
+  },
+  {
+    "id":261,
+    "description":"House Foods Premium Soft Tofu",
+    "calories":245.0,
+    "protein_g":6.4,
+    "fat_g":2.7,
+    "carbs_g":2.2
+  },
+  {
+    "id":262,
+    "description":"Ice Creams, Strawberry",
+    "calories":192.0,
+    "protein_g":3.2,
+    "fat_g":8.4,
+    "carbs_g":27.6
+  },
+  {
+    "id":263,
+    "description":"Lentils",
+    "calories":270.6,
+    "protein_g":21.6,
+    "fat_g":0.7,
+    "carbs_g":57.7
+  },
+  {
+    "id":264,
+    "description":"Lettuce, Salad With Avocado, Tomato, And\/Or Carrots, With Or Without Other Vegetables, No Dressing",
+    "calories":54.0,
+    "protein_g":1.3,
+    "fat_g":3.4,
+    "carbs_g":5.5
+  },
+  {
+    "id":265,
+    "description":"Lima Beans, Nfs",
+    "calories":165.0,
+    "protein_g":7.2,
+    "fat_g":6.9,
+    "carbs_g":19.4
+  },
+  {
+    "id":266,
+    "description":"Lomi Salmon",
+    "calories":60.0,
+    "protein_g":7.6,
+    "fat_g":1.9,
+    "carbs_g":3.3
+  },
+  {
+    "id":267,
+    "description":"Macaroni Or Noodles With Cheese And Tuna",
+    "calories":164.0,
+    "protein_g":7.6,
+    "fat_g":6.8,
+    "carbs_g":18.2
+  },
+  {
+    "id":268,
+    "description":"Macaroni Or Pasta Salad With Tuna",
+    "calories":200.0,
+    "protein_g":6.7,
+    "fat_g":9.9,
+    "carbs_g":20.9
+  },
+  {
+    "id":269,
+    "description":"Marmalade, Orange",
+    "calories":1030.0,
+    "protein_g":0.3,
+    "fat_g":0.0,
+    "carbs_g":66.3
+  },
+  {
+    "id":270,
+    "description":"Mayonnaise, Made With Tofu",
+    "calories":1350.0,
+    "protein_g":6.0,
+    "fat_g":31.8,
+    "carbs_g":3.1
+  },
+  {
+    "id":271,
+    "description":"Mcdonald'S, Strawberry Sundae",
+    "calories":659.0,
+    "protein_g":3.2,
+    "fat_g":4.0,
+    "carbs_g":28.1
+  },
+  {
+    "id":272,
+    "description":"Melon, Banana (Navajo)",
+    "calories":21.0,
+    "protein_g":0.8,
+    "fat_g":0.2,
+    "carbs_g":4.1
+  },
+  {
+    "id":273,
+    "description":"Milk",
+    "calories":65.4,
+    "protein_g":3.5,
+    "fat_g":3.5,
+    "carbs_g":5.1
+  },
+  {
+    "id":274,
+    "description":"Mori-Nu, Tofu, Silken, Firm",
+    "calories":62.0,
+    "protein_g":6.9,
+    "fat_g":2.7,
+    "carbs_g":2.4
+  },
+  {
+    "id":275,
+    "description":"Muffin, Carrot",
+    "calories":314.0,
+    "protein_g":5.0,
+    "fat_g":13.2,
+    "carbs_g":44.4
+  },
+  {
+    "id":276,
+    "description":"Muffin, Fruit",
+    "calories":375.0,
+    "protein_g":4.5,
+    "fat_g":16.1,
+    "carbs_g":53.0
+  },
+  {
+    "id":277,
+    "description":"Muffin, Oat Bran",
+    "calories":270.0,
+    "protein_g":7.0,
+    "fat_g":7.4,
+    "carbs_g":48.3
+  },
+  {
+    "id":278,
+    "description":"Muffins, Oat Bran",
+    "calories":270.0,
+    "protein_g":7.0,
+    "fat_g":7.4,
+    "carbs_g":48.3
+  },
+  {
+    "id":279,
+    "description":"Mushroom",
+    "calories":47.5,
+    "protein_g":1.2,
+    "fat_g":3.1,
+    "carbs_g":3.4
+  },
+  {
+    "id":280,
+    "description":"Mushrooms, Canned, Cooked",
+    "calories":47.0,
+    "protein_g":1.8,
+    "fat_g":2.8,
+    "carbs_g":5.0
+  },
+  {
+    "id":281,
+    "description":"Mushrooms, Pickled",
+    "calories":46.0,
+    "protein_g":2.4,
+    "fat_g":0.3,
+    "carbs_g":8.3
+  },
+  {
+    "id":282,
+    "description":"Mushrooms, Raw",
+    "calories":31.0,
+    "protein_g":2.9,
+    "fat_g":0.4,
+    "carbs_g":4.1
+  },
+  {
+    "id":283,
+    "description":"Mushrooms, Stuffed",
+    "calories":288.0,
+    "protein_g":10.7,
+    "fat_g":15.0,
+    "carbs_g":27.7
+  },
+  {
+    "id":284,
+    "description":"Nachos, With Beans",
+    "calories":210.0,
+    "protein_g":4.6,
+    "fat_g":11.4,
+    "carbs_g":23.3
+  },
+  {
+    "id":285,
+    "description":"Nuts, Almonds",
+    "calories":579.0,
+    "protein_g":21.2,
+    "fat_g":49.9,
+    "carbs_g":21.6
+  },
+  {
+    "id":286,
+    "description":"Nuts, Walnuts, Black, Dried",
+    "calories":619.0,
+    "protein_g":24.1,
+    "fat_g":59.3,
+    "carbs_g":9.6
+  },
+  {
+    "id":287,
+    "description":"Nuts, Walnuts, Dry Roasted, With Salt Added",
+    "calories":2690.0,
+    "protein_g":14.3,
+    "fat_g":60.7,
+    "carbs_g":17.9
+  },
+  {
+    "id":288,
+    "description":"Nuts, Walnuts, English",
+    "calories":2740.0,
+    "protein_g":15.2,
+    "fat_g":65.2,
+    "carbs_g":13.7
+  },
+  {
+    "id":289,
+    "description":"Nuts, Walnuts, Glazed",
+    "calories":500.0,
+    "protein_g":8.3,
+    "fat_g":35.7,
+    "carbs_g":47.6
+  },
+  {
+    "id":290,
+    "description":"Oat Bran, Cooked",
+    "calories":40.0,
+    "protein_g":3.2,
+    "fat_g":0.9,
+    "carbs_g":11.4
+  },
+  {
+    "id":291,
+    "description":"Oat Bran, Raw",
+    "calories":246.0,
+    "protein_g":17.3,
+    "fat_g":7.0,
+    "carbs_g":66.2
+  },
+  {
+    "id":292,
+    "description":"Oat Milk",
+    "calories":45.0,
+    "protein_g":0.7,
+    "fat_g":2.3,
+    "carbs_g":5.4
+  },
+  {
+    "id":293,
+    "description":"Oats",
+    "calories":375.0,
+    "protein_g":12.5,
+    "fat_g":6.2,
+    "carbs_g":67.5
+  },
+  {
+    "id":294,
+    "description":"Oats, Raw",
+    "calories":379.0,
+    "protein_g":13.2,
+    "fat_g":6.5,
+    "carbs_g":67.7
+  },
+  {
+    "id":295,
+    "description":"Oil, Almond",
+    "calories":3700.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":296,
+    "description":"Oil, Avocado",
+    "calories":884.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":297,
+    "description":"Oil, Oat",
+    "calories":3700.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":298,
+    "description":"Oil, Walnut",
+    "calories":3700.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":299,
+    "description":"Olive Oil",
+    "calories":789.3,
+    "protein_g":0.0,
+    "fat_g":91.0,
+    "carbs_g":0.4
+  },
+  {
+    "id":300,
+    "description":"Orange",
+    "calories":381.0,
+    "protein_g":4.8,
+    "fat_g":0.0,
+    "carbs_g":90.5
+  },
+  {
+    "id":301,
+    "description":"Orange Blossom",
+    "calories":98.0,
+    "protein_g":0.6,
+    "fat_g":0.3,
+    "carbs_g":9.3
+  },
+  {
+    "id":302,
+    "description":"Orange Chicken",
+    "calories":262.0,
+    "protein_g":14.5,
+    "fat_g":12.7,
+    "carbs_g":22.5
+  },
+  {
+    "id":303,
+    "description":"Orange Peel, Raw",
+    "calories":97.0,
+    "protein_g":1.5,
+    "fat_g":0.2,
+    "carbs_g":25.0
+  },
+  {
+    "id":304,
+    "description":"Orange, Canned, In Syrup",
+    "calories":55.0,
+    "protein_g":0.6,
+    "fat_g":0.0,
+    "carbs_g":14.1
+  },
+  {
+    "id":305,
+    "description":"Orange, Canned, Nfs",
+    "calories":46.0,
+    "protein_g":0.6,
+    "fat_g":0.0,
+    "carbs_g":11.8
+  },
+  {
+    "id":306,
+    "description":"Orange, Raw",
+    "calories":50.0,
+    "protein_g":0.9,
+    "fat_g":0.1,
+    "carbs_g":11.8
+  },
+  {
+    "id":307,
+    "description":"Oranges, Raw, Florida",
+    "calories":192.0,
+    "protein_g":0.7,
+    "fat_g":0.2,
+    "carbs_g":11.5
+  },
+  {
+    "id":308,
+    "description":"Oranges, Raw, Navels",
+    "calories":196.0,
+    "protein_g":0.9,
+    "fat_g":0.2,
+    "carbs_g":11.8
+  },
+  {
+    "id":309,
+    "description":"Oranges, Raw, With Peel",
+    "calories":63.0,
+    "protein_g":1.3,
+    "fat_g":0.3,
+    "carbs_g":15.5
+  },
+  {
+    "id":310,
+    "description":"Pasta",
+    "calories":318.5,
+    "protein_g":11.0,
+    "fat_g":3.6,
+    "carbs_g":60.6
+  },
+  {
+    "id":311,
+    "description":"Pasta With Sauce, Nfs",
+    "calories":125.0,
+    "protein_g":5.9,
+    "fat_g":2.6,
+    "carbs_g":19.2
+  },
+  {
+    "id":312,
+    "description":"Pasta, Cooked",
+    "calories":157.0,
+    "protein_g":5.8,
+    "fat_g":0.9,
+    "carbs_g":30.7
+  },
+  {
+    "id":313,
+    "description":"Pasta, Dry, Enriched",
+    "calories":371.0,
+    "protein_g":13.0,
+    "fat_g":1.5,
+    "carbs_g":74.7
+  },
+  {
+    "id":314,
+    "description":"Pasta, Dry, Unenriched",
+    "calories":371.0,
+    "protein_g":13.0,
+    "fat_g":1.5,
+    "carbs_g":74.7
+  },
+  {
+    "id":315,
+    "description":"Pasta, Gluten Free",
+    "calories":179.0,
+    "protein_g":3.2,
+    "fat_g":1.0,
+    "carbs_g":38.0
+  },
+  {
+    "id":316,
+    "description":"Pasta, Vegetable, Cooked",
+    "calories":128.0,
+    "protein_g":4.5,
+    "fat_g":0.1,
+    "carbs_g":26.6
+  },
+  {
+    "id":317,
+    "description":"Pasta, Whole Grain, Cooked",
+    "calories":148.0,
+    "protein_g":6.0,
+    "fat_g":1.7,
+    "carbs_g":29.9
+  },
+  {
+    "id":318,
+    "description":"Pastrami, Turkey",
+    "calories":139.0,
+    "protein_g":16.3,
+    "fat_g":6.2,
+    "carbs_g":3.3
+  },
+  {
+    "id":319,
+    "description":"Peanut Butter",
+    "calories":578.2,
+    "protein_g":21.9,
+    "fat_g":47.0,
+    "carbs_g":25.9
+  },
+  {
+    "id":320,
+    "description":"Pepper, Banana, Raw",
+    "calories":113.0,
+    "protein_g":1.7,
+    "fat_g":0.4,
+    "carbs_g":5.4
+  },
+  {
+    "id":321,
+    "description":"Peppers, Banana, Raw",
+    "calories":27.0,
+    "protein_g":1.7,
+    "fat_g":0.4,
+    "carbs_g":5.4
+  },
+  {
+    "id":322,
+    "description":"Pickles, Cucumber, Dill Or Kosher Dill",
+    "calories":12.0,
+    "protein_g":0.5,
+    "fat_g":0.4,
+    "carbs_g":2.2
+  },
+  {
+    "id":323,
+    "description":"Pickles, Cucumber, Dill, Reduced Sodium",
+    "calories":12.0,
+    "protein_g":0.5,
+    "fat_g":0.3,
+    "carbs_g":2.4
+  },
+  {
+    "id":324,
+    "description":"Pickles, Cucumber, Sour",
+    "calories":44.0,
+    "protein_g":0.3,
+    "fat_g":0.2,
+    "carbs_g":2.3
+  },
+  {
+    "id":325,
+    "description":"Pickles, Cucumber, Sour, Low Sodium",
+    "calories":44.0,
+    "protein_g":0.3,
+    "fat_g":0.2,
+    "carbs_g":2.3
+  },
+  {
+    "id":326,
+    "description":"Pickles, Cucumber, Sweet (Includes Bread And Butter Pickles)",
+    "calories":91.0,
+    "protein_g":0.6,
+    "fat_g":0.4,
+    "carbs_g":21.2
+  },
+  {
+    "id":327,
+    "description":"Pickles, Cucumber, Sweet, Low Sodium (Includes Bread And Butter Pickles)",
+    "calories":122.0,
+    "protein_g":0.4,
+    "fat_g":0.3,
+    "carbs_g":33.7
+  },
+  {
+    "id":328,
+    "description":"Pie, Apple",
+    "calories":296.0,
+    "protein_g":2.7,
+    "fat_g":15.3,
+    "carbs_g":37.6
+  },
+  {
+    "id":329,
+    "description":"Pie, Banana Cream",
+    "calories":284.0,
+    "protein_g":2.4,
+    "fat_g":16.2,
+    "carbs_g":32.4
+  },
+  {
+    "id":330,
+    "description":"Pie, Strawberry",
+    "calories":289.0,
+    "protein_g":2.9,
+    "fat_g":11.6,
+    "carbs_g":44.2
+  },
+  {
+    "id":331,
+    "description":"Pie, Sweet Potato",
+    "calories":269.0,
+    "protein_g":5.0,
+    "fat_g":9.8,
+    "carbs_g":41.1
+  },
+  {
+    "id":332,
+    "description":"Pork And Beans",
+    "calories":105.0,
+    "protein_g":4.5,
+    "fat_g":0.9,
+    "carbs_g":21.6
+  },
+  {
+    "id":333,
+    "description":"Pork With Chili And Tomatoes",
+    "calories":95.0,
+    "protein_g":11.6,
+    "fat_g":4.0,
+    "carbs_g":2.7
+  },
+  {
+    "id":334,
+    "description":"Potato Chips, Nfs",
+    "calories":532.0,
+    "protein_g":6.4,
+    "fat_g":34.0,
+    "carbs_g":53.8
+  },
+  {
+    "id":335,
+    "description":"Potato Chips, Plain",
+    "calories":532.0,
+    "protein_g":6.4,
+    "fat_g":34.0,
+    "carbs_g":53.8
+  },
+  {
+    "id":336,
+    "description":"Potato Chips, Unsalted",
+    "calories":537.0,
+    "protein_g":6.2,
+    "fat_g":30.3,
+    "carbs_g":59.7
+  },
+  {
+    "id":337,
+    "description":"Potato Flour",
+    "calories":1490.0,
+    "protein_g":6.9,
+    "fat_g":0.3,
+    "carbs_g":83.1
+  },
+  {
+    "id":338,
+    "description":"Potato Pancake",
+    "calories":196.0,
+    "protein_g":4.5,
+    "fat_g":10.8,
+    "carbs_g":20.6
+  },
+  {
+    "id":339,
+    "description":"Potato Pancakes",
+    "calories":1120.0,
+    "protein_g":6.1,
+    "fat_g":14.8,
+    "carbs_g":27.8
+  },
+  {
+    "id":340,
+    "description":"Potato Patty",
+    "calories":171.0,
+    "protein_g":3.9,
+    "fat_g":11.3,
+    "carbs_g":13.5
+  },
+  {
+    "id":341,
+    "description":"Potato Sticks, Flavored",
+    "calories":517.0,
+    "protein_g":6.6,
+    "fat_g":34.1,
+    "carbs_g":52.8
+  },
+  {
+    "id":342,
+    "description":"Potato Tots, Nfs",
+    "calories":237.0,
+    "protein_g":1.9,
+    "fat_g":15.5,
+    "carbs_g":24.4
+  },
+  {
+    "id":343,
+    "description":"Potato Tots, School",
+    "calories":166.0,
+    "protein_g":2.0,
+    "fat_g":9.2,
+    "carbs_g":19.3
+  },
+  {
+    "id":344,
+    "description":"Potato, Boiled, Nfs",
+    "calories":126.0,
+    "protein_g":1.9,
+    "fat_g":4.2,
+    "carbs_g":20.4
+  },
+  {
+    "id":345,
+    "description":"Potato, Nfs",
+    "calories":126.0,
+    "protein_g":1.9,
+    "fat_g":4.2,
+    "carbs_g":20.4
+  },
+  {
+    "id":346,
+    "description":"Pudding, Rice",
+    "calories":108.0,
+    "protein_g":3.2,
+    "fat_g":2.2,
+    "carbs_g":18.4
+  },
+  {
+    "id":347,
+    "description":"Pupusa, With Beans",
+    "calories":229.0,
+    "protein_g":5.6,
+    "fat_g":9.0,
+    "carbs_g":31.5
+  },
+  {
+    "id":348,
+    "description":"Quesadilla, Egg",
+    "calories":249.0,
+    "protein_g":10.9,
+    "fat_g":13.7,
+    "carbs_g":20.1
+  },
+  {
+    "id":349,
+    "description":"Quinoa",
+    "calories":352.8,
+    "protein_g":13.8,
+    "fat_g":5.7,
+    "carbs_g":63.7
+  },
+  {
+    "id":350,
+    "description":"Ranch Dip, Yogurt Based",
+    "calories":195.0,
+    "protein_g":8.5,
+    "fat_g":16.1,
+    "carbs_g":4.1
+  },
+  {
+    "id":351,
+    "description":"Refried Beans",
+    "calories":90.0,
+    "protein_g":5.0,
+    "fat_g":2.0,
+    "carbs_g":13.6
+  },
+  {
+    "id":352,
+    "description":"Relish, Corn",
+    "calories":111.0,
+    "protein_g":1.7,
+    "fat_g":0.9,
+    "carbs_g":25.7
+  },
+  {
+    "id":353,
+    "description":"Rice",
+    "calories":319.4,
+    "protein_g":6.2,
+    "fat_g":0.3,
+    "carbs_g":71.2
+  },
+  {
+    "id":354,
+    "description":"Rice Cake",
+    "calories":392.0,
+    "protein_g":7.1,
+    "fat_g":4.3,
+    "carbs_g":81.1
+  },
+  {
+    "id":355,
+    "description":"Rice Dressing",
+    "calories":110.0,
+    "protein_g":2.0,
+    "fat_g":3.3,
+    "carbs_g":17.6
+  },
+  {
+    "id":356,
+    "description":"Rice Paper",
+    "calories":323.0,
+    "protein_g":5.9,
+    "fat_g":1.1,
+    "carbs_g":72.3
+  },
+  {
+    "id":357,
+    "description":"Rice Pilaf",
+    "calories":137.0,
+    "protein_g":3.3,
+    "fat_g":3.0,
+    "carbs_g":24.1
+  },
+  {
+    "id":358,
+    "description":"Rice, White, With Tomatoes And\/Or Tomato-Based Sauce, Fat Added",
+    "calories":107.0,
+    "protein_g":2.0,
+    "fat_g":2.2,
+    "carbs_g":19.4
+  },
+  {
+    "id":359,
+    "description":"Salmon",
+    "calories":196.8,
+    "protein_g":19.2,
+    "fat_g":12.1,
+    "carbs_g":1.1
+  },
+  {
+    "id":360,
+    "description":"Salmon Cake Sandwich",
+    "calories":279.0,
+    "protein_g":13.9,
+    "fat_g":15.9,
+    "carbs_g":19.4
+  },
+  {
+    "id":361,
+    "description":"Salmon Salad",
+    "calories":213.0,
+    "protein_g":10.8,
+    "fat_g":17.4,
+    "carbs_g":2.7
+  },
+  {
+    "id":362,
+    "description":"Sea Cucumber, Yane (Alaska Native)",
+    "calories":233.0,
+    "protein_g":13.0,
+    "fat_g":0.4,
+    "carbs_g":0.0
+  },
+  {
+    "id":363,
+    "description":"Sherbet, Orange",
+    "calories":602.0,
+    "protein_g":1.1,
+    "fat_g":2.0,
+    "carbs_g":30.4
+  },
+  {
+    "id":364,
+    "description":"Snacks, Banana Chips",
+    "calories":2170.0,
+    "protein_g":2.3,
+    "fat_g":33.6,
+    "carbs_g":58.4
+  },
+  {
+    "id":365,
+    "description":"Soup, Bean",
+    "calories":67.0,
+    "protein_g":3.8,
+    "fat_g":0.8,
+    "carbs_g":11.6
+  },
+  {
+    "id":366,
+    "description":"Soup, Cream Of Mushroom",
+    "calories":74.0,
+    "protein_g":2.1,
+    "fat_g":4.8,
+    "carbs_g":5.7
+  },
+  {
+    "id":367,
+    "description":"Soup, Cream Of Tomato",
+    "calories":70.0,
+    "protein_g":1.2,
+    "fat_g":4.7,
+    "carbs_g":6.4
+  },
+  {
+    "id":368,
+    "description":"Soup, Miso Or Tofu",
+    "calories":24.0,
+    "protein_g":2.2,
+    "fat_g":0.8,
+    "carbs_g":2.3
+  },
+  {
+    "id":369,
+    "description":"Soup, Potato",
+    "calories":90.0,
+    "protein_g":1.5,
+    "fat_g":4.7,
+    "carbs_g":10.5
+  },
+  {
+    "id":370,
+    "description":"Soup, Potato With Meat",
+    "calories":109.0,
+    "protein_g":3.8,
+    "fat_g":6.4,
+    "carbs_g":8.8
+  },
+  {
+    "id":371,
+    "description":"Soup, Tomato",
+    "calories":19.0,
+    "protein_g":0.6,
+    "fat_g":0.4,
+    "carbs_g":3.6
+  },
+  {
+    "id":372,
+    "description":"Spinach",
+    "calories":36.4,
+    "protein_g":2.6,
+    "fat_g":0.1,
+    "carbs_g":6.0
+  },
+  {
+    "id":373,
+    "description":"Spinach Dip, Yogurt Based",
+    "calories":159.0,
+    "protein_g":7.0,
+    "fat_g":13.0,
+    "carbs_g":3.6
+  },
+  {
+    "id":374,
+    "description":"Stew, Beef",
+    "calories":107.0,
+    "protein_g":8.8,
+    "fat_g":5.1,
+    "carbs_g":6.3
+  },
+  {
+    "id":375,
+    "description":"Stew, Beef, With Pasta",
+    "calories":132.0,
+    "protein_g":9.8,
+    "fat_g":5.2,
+    "carbs_g":10.8
+  },
+  {
+    "id":376,
+    "description":"Stew, Chicken, With Pasta",
+    "calories":108.0,
+    "protein_g":10.2,
+    "fat_g":2.5,
+    "carbs_g":10.8
+  },
+  {
+    "id":377,
+    "description":"Stew, Pork, With Pasta",
+    "calories":133.0,
+    "protein_g":9.4,
+    "fat_g":5.6,
+    "carbs_g":10.8
+  },
+  {
+    "id":378,
+    "description":"Stewed Potatoes",
+    "calories":103.0,
+    "protein_g":2.0,
+    "fat_g":3.4,
+    "carbs_g":16.3
+  },
+  {
+    "id":379,
+    "description":"Strawberries, Canned",
+    "calories":92.0,
+    "protein_g":0.6,
+    "fat_g":0.3,
+    "carbs_g":23.5
+  },
+  {
+    "id":380,
+    "description":"Strawberries, Frozen",
+    "calories":35.0,
+    "protein_g":0.4,
+    "fat_g":0.1,
+    "carbs_g":9.1
+  },
+  {
+    "id":381,
+    "description":"Strawberries, Raw",
+    "calories":86.0,
+    "protein_g":0.7,
+    "fat_g":0.3,
+    "carbs_g":7.8
+  },
+  {
+    "id":382,
+    "description":"Strawberry",
+    "calories":205.2,
+    "protein_g":0.6,
+    "fat_g":0.7,
+    "carbs_g":63.0
+  },
+  {
+    "id":383,
+    "description":"Strudel, Apple",
+    "calories":277.5,
+    "protein_g":2.6,
+    "fat_g":12.6,
+    "carbs_g":39.1
+  },
+  {
+    "id":384,
+    "description":"Sun-Dried Tomatoes",
+    "calories":258.0,
+    "protein_g":14.1,
+    "fat_g":3.0,
+    "carbs_g":55.8
+  },
+  {
+    "id":385,
+    "description":"Sushi Roll Tuna",
+    "calories":97.0,
+    "protein_g":7.4,
+    "fat_g":0.3,
+    "carbs_g":15.3
+  },
+  {
+    "id":386,
+    "description":"Sushi Roll, Avocado",
+    "calories":93.0,
+    "protein_g":1.8,
+    "fat_g":1.5,
+    "carbs_g":17.6
+  },
+  {
+    "id":387,
+    "description":"Sushi Roll, Salmon",
+    "calories":103.0,
+    "protein_g":6.9,
+    "fat_g":1.3,
+    "carbs_g":15.3
+  },
+  {
+    "id":388,
+    "description":"Sushi, Topped With Salmon",
+    "calories":107.0,
+    "protein_g":8.9,
+    "fat_g":1.7,
+    "carbs_g":13.4
+  },
+  {
+    "id":389,
+    "description":"Sushi, Topped With Tuna",
+    "calories":100.0,
+    "protein_g":9.7,
+    "fat_g":0.3,
+    "carbs_g":13.4
+  },
+  {
+    "id":390,
+    "description":"Sweet Potato",
+    "calories":178.0,
+    "protein_g":5.8,
+    "fat_g":6.9,
+    "carbs_g":24.6
+  },
+  {
+    "id":391,
+    "description":"Sweet Potato Chips",
+    "calories":529.0,
+    "protein_g":2.9,
+    "fat_g":32.2,
+    "carbs_g":56.5
+  },
+  {
+    "id":392,
+    "description":"Sweet Potato Fries, Frozen",
+    "calories":192.0,
+    "protein_g":2.3,
+    "fat_g":9.4,
+    "carbs_g":37.4
+  },
+  {
+    "id":393,
+    "description":"Sweet Potato Fries, Nfs",
+    "calories":192.0,
+    "protein_g":2.3,
+    "fat_g":9.4,
+    "carbs_g":37.4
+  },
+  {
+    "id":394,
+    "description":"Sweet Potato Fries, School",
+    "calories":192.0,
+    "protein_g":2.3,
+    "fat_g":9.4,
+    "carbs_g":37.4
+  },
+  {
+    "id":395,
+    "description":"Sweet Potato Leaves, Raw",
+    "calories":42.0,
+    "protein_g":2.5,
+    "fat_g":0.5,
+    "carbs_g":8.8
+  },
+  {
+    "id":396,
+    "description":"Sweet Potato Paste",
+    "calories":305.0,
+    "protein_g":0.5,
+    "fat_g":0.3,
+    "carbs_g":75.1
+  },
+  {
+    "id":397,
+    "description":"Sweet Potato Tots",
+    "calories":191.0,
+    "protein_g":2.3,
+    "fat_g":9.4,
+    "carbs_g":37.3
+  },
+  {
+    "id":398,
+    "description":"Sweet Potato Tots, School",
+    "calories":192.0,
+    "protein_g":2.3,
+    "fat_g":9.4,
+    "carbs_g":37.4
+  },
+  {
+    "id":399,
+    "description":"Sweet Potato, Candied",
+    "calories":187.0,
+    "protein_g":1.2,
+    "fat_g":3.5,
+    "carbs_g":37.7
+  },
+  {
+    "id":400,
+    "description":"Sweet Potato, Canned, Mashed",
+    "calories":421.0,
+    "protein_g":2.0,
+    "fat_g":0.2,
+    "carbs_g":23.2
+  },
+  {
+    "id":401,
+    "description":"Sweet Potato, Casserole Or Mashed",
+    "calories":99.0,
+    "protein_g":1.9,
+    "fat_g":2.6,
+    "carbs_g":17.2
+  },
+  {
+    "id":402,
+    "description":"Sweet Potato, Cooked, As Ingredient",
+    "calories":82.0,
+    "protein_g":1.6,
+    "fat_g":0.4,
+    "carbs_g":18.0
+  },
+  {
+    "id":403,
+    "description":"Sweet Potato, Nfs",
+    "calories":115.0,
+    "protein_g":1.6,
+    "fat_g":4.5,
+    "carbs_g":17.1
+  },
+  {
+    "id":404,
+    "description":"Taquito, Egg",
+    "calories":281.0,
+    "protein_g":9.9,
+    "fat_g":13.6,
+    "carbs_g":29.2
+  },
+  {
+    "id":405,
+    "description":"Toddler Meal, Pasta",
+    "calories":101.0,
+    "protein_g":4.1,
+    "fat_g":2.2,
+    "carbs_g":16.1
+  },
+  {
+    "id":406,
+    "description":"Tofu",
+    "calories":81.9,
+    "protein_g":8.5,
+    "fat_g":4.1,
+    "carbs_g":2.2
+  },
+  {
+    "id":407,
+    "description":"Tofu Yogurt",
+    "calories":394.0,
+    "protein_g":3.5,
+    "fat_g":1.8,
+    "carbs_g":16.0
+  },
+  {
+    "id":408,
+    "description":"Tofu, Dried-Frozen (Koyadofu)",
+    "calories":477.0,
+    "protein_g":52.5,
+    "fat_g":30.3,
+    "carbs_g":10.0
+  },
+  {
+    "id":409,
+    "description":"Tofu, Fried",
+    "calories":1130.0,
+    "protein_g":18.8,
+    "fat_g":20.2,
+    "carbs_g":8.9
+  },
+  {
+    "id":410,
+    "description":"Tofu, Hard, Prepared With Nigari",
+    "calories":609.0,
+    "protein_g":12.7,
+    "fat_g":10.0,
+    "carbs_g":4.4
+  },
+  {
+    "id":411,
+    "description":"Tofu, Salted And Fermented (Fuyu)",
+    "calories":116.0,
+    "protein_g":8.9,
+    "fat_g":8.0,
+    "carbs_g":4.4
+  },
+  {
+    "id":412,
+    "description":"Tomato",
+    "calories":71.0,
+    "protein_g":14.3,
+    "fat_g":0.0,
+    "carbs_g":35.7
+  },
+  {
+    "id":413,
+    "description":"Tomato And Cucumber Salad Made With Tomato, Cucumber, Oil, And Vinegar",
+    "calories":122.0,
+    "protein_g":0.5,
+    "fat_g":10.2,
+    "carbs_g":6.4
+  },
+  {
+    "id":414,
+    "description":"Tomato Juice Cocktail",
+    "calories":22.0,
+    "protein_g":0.9,
+    "fat_g":0.3,
+    "carbs_g":3.9
+  },
+  {
+    "id":415,
+    "description":"Tomato Powder",
+    "calories":302.0,
+    "protein_g":12.9,
+    "fat_g":0.4,
+    "carbs_g":74.7
+  },
+  {
+    "id":416,
+    "description":"Tomato Products, Canned, Sauce, With Tomato Tidbits",
+    "calories":32.0,
+    "protein_g":1.3,
+    "fat_g":0.4,
+    "carbs_g":7.1
+  },
+  {
+    "id":417,
+    "description":"Tomatoes, Canned, Cooked",
+    "calories":43.0,
+    "protein_g":0.8,
+    "fat_g":3.0,
+    "carbs_g":3.2
+  },
+  {
+    "id":418,
+    "description":"Tomatoes, Fresh, Cooked",
+    "calories":50.0,
+    "protein_g":1.1,
+    "fat_g":3.4,
+    "carbs_g":4.7
+  },
+  {
+    "id":419,
+    "description":"Tomatoes, Orange, Raw",
+    "calories":16.0,
+    "protein_g":1.2,
+    "fat_g":0.2,
+    "carbs_g":3.2
+  },
+  {
+    "id":420,
+    "description":"Tomatoes, Raw",
+    "calories":20.0,
+    "protein_g":0.8,
+    "fat_g":0.3,
+    "carbs_g":4.0
+  },
+  {
+    "id":421,
+    "description":"Tomatoes, Red, Ripe, Canned, Packed In Tomato Juice",
+    "calories":69.0,
+    "protein_g":0.8,
+    "fat_g":0.2,
+    "carbs_g":3.5
+  },
+  {
+    "id":422,
+    "description":"Tomatoes, Scalloped",
+    "calories":110.0,
+    "protein_g":2.7,
+    "fat_g":5.0,
+    "carbs_g":14.1
+  },
+  {
+    "id":423,
+    "description":"Toppings, Strawberry",
+    "calories":254.0,
+    "protein_g":0.2,
+    "fat_g":0.1,
+    "carbs_g":66.3
+  },
+  {
+    "id":424,
+    "description":"Tortilla, Corn",
+    "calories":218.0,
+    "protein_g":5.7,
+    "fat_g":2.8,
+    "carbs_g":44.6
+  },
+  {
+    "id":425,
+    "description":"Tuna",
+    "calories":94.0,
+    "protein_g":5.7,
+    "fat_g":3.8,
+    "carbs_g":10.4
+  },
+  {
+    "id":426,
+    "description":"Tuna And Rice With Mushroom Sauce",
+    "calories":128.0,
+    "protein_g":4.6,
+    "fat_g":5.2,
+    "carbs_g":15.4
+  },
+  {
+    "id":427,
+    "description":"Tuna Cake Or Patty",
+    "calories":206.0,
+    "protein_g":15.3,
+    "fat_g":14.9,
+    "carbs_g":2.6
+  },
+  {
+    "id":428,
+    "description":"Tuna Salad Sandwich On Wheat",
+    "calories":217.0,
+    "protein_g":10.5,
+    "fat_g":11.9,
+    "carbs_g":17.1
+  },
+  {
+    "id":429,
+    "description":"Tuna Salad Sandwich On White",
+    "calories":218.0,
+    "protein_g":9.9,
+    "fat_g":11.8,
+    "carbs_g":18.3
+  },
+  {
+    "id":430,
+    "description":"Tuna Salad Sandwich On White, With Cheese",
+    "calories":233.0,
+    "protein_g":11.0,
+    "fat_g":13.5,
+    "carbs_g":16.9
+  },
+  {
+    "id":431,
+    "description":"Tuna Salad Sandwich Wrap",
+    "calories":244.0,
+    "protein_g":10.6,
+    "fat_g":14.8,
+    "carbs_g":17.0
+  },
+  {
+    "id":432,
+    "description":"Tuna Salad With Cheese",
+    "calories":214.0,
+    "protein_g":11.3,
+    "fat_g":17.6,
+    "carbs_g":2.8
+  },
+  {
+    "id":433,
+    "description":"Tuna Salad With Egg",
+    "calories":190.0,
+    "protein_g":10.3,
+    "fat_g":15.4,
+    "carbs_g":2.7
+  },
+  {
+    "id":434,
+    "description":"Tuna Salad, Made With Mayonnaise",
+    "calories":194.0,
+    "protein_g":10.1,
+    "fat_g":15.8,
+    "carbs_g":2.9
+  },
+  {
+    "id":435,
+    "description":"Tuna With Cream Or White Sauce",
+    "calories":102.0,
+    "protein_g":14.4,
+    "fat_g":3.7,
+    "carbs_g":2.8
+  },
+  {
+    "id":436,
+    "description":"Turkey",
+    "calories":149.2,
+    "protein_g":12.6,
+    "fat_g":6.0,
+    "carbs_g":9.7
+  },
+  {
+    "id":437,
+    "description":"Turkey Or Chicken Sausage",
+    "calories":193.0,
+    "protein_g":19.6,
+    "fat_g":12.2,
+    "carbs_g":1.1
+  },
+  {
+    "id":438,
+    "description":"Turkey With Gravy",
+    "calories":125.0,
+    "protein_g":20.5,
+    "fat_g":3.5,
+    "carbs_g":1.6
+  },
+  {
+    "id":439,
+    "description":"Turkey, Back",
+    "calories":203.0,
+    "protein_g":25.6,
+    "fat_g":11.3,
+    "carbs_g":0.0
+  },
+  {
+    "id":440,
+    "description":"Turkey, Canned",
+    "calories":185.0,
+    "protein_g":25.3,
+    "fat_g":8.1,
+    "carbs_g":0.9
+  },
+  {
+    "id":441,
+    "description":"Turkey, Ground",
+    "calories":211.0,
+    "protein_g":26.9,
+    "fat_g":11.5,
+    "carbs_g":0.0
+  },
+  {
+    "id":442,
+    "description":"Turkey, Mechanically Deboned, From Turkey Frames, Raw",
+    "calories":201.0,
+    "protein_g":13.3,
+    "fat_g":16.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":443,
+    "description":"Turkey, Neck",
+    "calories":161.0,
+    "protein_g":22.3,
+    "fat_g":7.3,
+    "carbs_g":0.0
+  },
+  {
+    "id":444,
+    "description":"Turkey, Nfs",
+    "calories":139.0,
+    "protein_g":28.8,
+    "fat_g":2.1,
+    "carbs_g":0.0
+  },
+  {
+    "id":445,
+    "description":"Turkey, Nuggets",
+    "calories":236.0,
+    "protein_g":22.2,
+    "fat_g":8.7,
+    "carbs_g":17.1
+  },
+  {
+    "id":446,
+    "description":"Turkey, Tail",
+    "calories":294.0,
+    "protein_g":22.2,
+    "fat_g":22.8,
+    "carbs_g":0.0
+  },
+  {
+    "id":447,
+    "description":"Walnut",
+    "calories":575.0,
+    "protein_g":13.5,
+    "fat_g":52.3,
+    "carbs_g":25.6
+  },
+  {
+    "id":448,
+    "description":"Walnut Nuggests, Walnut",
+    "calories":679.0,
+    "protein_g":14.3,
+    "fat_g":64.3,
+    "carbs_g":14.3
+  },
+  {
+    "id":449,
+    "description":"Walnut Oil",
+    "calories":884.0,
+    "protein_g":0.0,
+    "fat_g":100.0,
+    "carbs_g":0.0
+  },
+  {
+    "id":450,
+    "description":"Walnut Topping, Walnut",
+    "calories":652.0,
+    "protein_g":13.4,
+    "fat_g":63.4,
+    "carbs_g":13.4
+  },
+  {
+    "id":451,
+    "description":"Walnuts, Excluding Honey Roasted",
+    "calories":730.0,
+    "protein_g":14.6,
+    "fat_g":69.7,
+    "carbs_g":10.9
+  },
+  {
+    "id":452,
+    "description":"Walnuts, Honey Roasted",
+    "calories":668.0,
+    "protein_g":9.8,
+    "fat_g":56.9,
+    "carbs_g":29.0
+  },
+  {
+    "id":453,
+    "description":"Yogurt",
+    "calories":78.0,
+    "protein_g":3.2,
+    "fat_g":3.2,
+    "carbs_g":10.2
+  },
+  {
+    "id":454,
+    "description":"Yogurt Parfait, With Fruit",
+    "calories":104.0,
+    "protein_g":5.2,
+    "fat_g":2.2,
+    "carbs_g":16.1
+  },
+  {
+    "id":455,
+    "description":"Yogurt Tube",
+    "calories":81.0,
+    "protein_g":4.3,
+    "fat_g":1.0,
+    "carbs_g":13.7
+  },
+  {
+    "id":456,
+    "description":"Yogurt, Almond Milk",
+    "calories":128.0,
+    "protein_g":3.0,
+    "fat_g":7.0,
+    "carbs_g":13.0
+  },
+  {
+    "id":457,
+    "description":"Yogurt, Coconut Milk",
+    "calories":108.0,
+    "protein_g":2.4,
+    "fat_g":5.6,
+    "carbs_g":12.9
+  },
+  {
+    "id":458,
+    "description":"Yogurt, Greek, With Oats",
+    "calories":149.0,
+    "protein_g":9.2,
+    "fat_g":3.7,
+    "carbs_g":20.0
+  },
+  {
+    "id":459,
+    "description":"Yogurt, Liquid",
+    "calories":74.0,
+    "protein_g":3.6,
+    "fat_g":1.1,
+    "carbs_g":12.6
+  },
+  {
+    "id":460,
+    "description":"Yogurt, Nfs",
+    "calories":94.0,
+    "protein_g":6.7,
+    "fat_g":2.9,
+    "carbs_g":10.2
+  },
+  {
+    "id":461,
+    "description":"Yogurt, Soy",
+    "calories":90.0,
+    "protein_g":4.8,
+    "fat_g":2.6,
+    "carbs_g":12.3
+  }
+]

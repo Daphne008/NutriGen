@@ -1,0 +1,105 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model DietPlan {
+  id               Int             @id @default(autoincrement())
+  userId           Int
+  patientReportId  Int?
+  patientCategory  PatientCategory
+  requiredCalories Float
+  totalCalories    Float
+  totalProtein     Float
+  totalCarbs       Float
+  totalFat         Float
+  score            Float
+  createdAt        DateTime        @default(now())
+  updatedAt        DateTime        @updatedAt
+  PatientReport    PatientReport?  @relation(fields: [patientReportId], references: [id])
+  User             User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  DietPlanItem     DietPlanItem[]
+}
+
+model DietPlanItem {
+  id                Int      @id @default(autoincrement())
+  dietPlanId        Int
+  foodId            Int
+  mealType          MealType
+  snackSlot         String?
+  portionMultiplier Float    @default(1)
+  DietPlan          DietPlan @relation(fields: [dietPlanId], references: [id], onDelete: Cascade)
+  Food              Food     @relation(fields: [foodId], references: [id], onDelete: Cascade)
+}
+
+model Food {
+  id                                            Int               @id @default(autoincrement())
+  name                                          String
+  category                                      String
+  calories                                      Float
+  protein                                       Float
+  carbs                                         Float
+  fat                                           Float
+  portionGram                                   Float
+  DietPlanItem                                  DietPlanItem[]
+  FoodEquivalence_FoodEquivalence_foodAIdToFood FoodEquivalence[] @relation("FoodEquivalence_foodAIdToFood")
+  FoodEquivalence_FoodEquivalence_foodBIdToFood FoodEquivalence[] @relation("FoodEquivalence_foodBIdToFood")
+}
+
+model FoodEquivalence {
+  id                                 Int     @id @default(autoincrement())
+  foodAId                            Int
+  foodBId                            Int
+  equivalentRatio                    Float
+  group                              String?
+  Food_FoodEquivalence_foodAIdToFood Food    @relation("FoodEquivalence_foodAIdToFood", fields: [foodAId], references: [id], onDelete: Cascade)
+  Food_FoodEquivalence_foodBIdToFood Food    @relation("FoodEquivalence_foodBIdToFood", fields: [foodBId], references: [id], onDelete: Cascade)
+}
+
+model PatientReport {
+  id              Int             @id @default(autoincrement())
+  userId          Int
+  patientCategory PatientCategory
+  data            Json
+  createdAt       DateTime        @default(now())
+  DietPlan        DietPlan[]
+  User            User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model User {
+  id            Int             @id @default(autoincrement())
+  name          String
+  email         String          @unique
+  passwordHash  String
+  role          Role            @default(DIETITIAN)
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+  DietPlan      DietPlan[]
+  PatientReport PatientReport[]
+}
+
+enum MealType {
+  BREAKFAST
+  LUNCH
+  DINNER
+  SNACK
+}
+
+enum PatientCategory {
+  PEDIATRIC
+  DIABETIC
+  LOW_INCOME
+  OBESE
+  ELDERLY
+  ATHLETE
+}
+
+enum Role {
+  ADMIN
+  DIETITIAN
+  PATIENT
+}
